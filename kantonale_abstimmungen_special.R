@@ -43,19 +43,20 @@ for (k in 1:length(kantonal_short_special) ) {
   
   #Simulation Gemeinden
   #source("data_simulation_gegenvorschlag.R")
-  
+
   results_gegenvorschlag <- results_gegenvorschlag[,c(3:6,11)]
   results_gegenvorschlag$neinStimmenInProzent <- 100-results_gegenvorschlag$jaStimmenInProzent
   
   colnames(results_gegenvorschlag) <- c("Gebiet_Ausgezaehlt_Gegenvorschlag","Ja_Prozent_Gegenvorschlag","Ja_Absolut_Gegenvorschlag","Nein_Absolut_Gegenvorschlag",
                                         "Gemeinde_Nr","Nein_Prozent_Gegenvorschlag")
-  
+
   results <- merge(results,results_gegenvorschlag)
   
+
   #Stichentscheid hinzufügen
-  results_stichentscheid <- get_results_kantonal(json_data_kantone,
-                                                 kantonal_number_special[k],
-                                                 kantonal_add_special[k]+2)
+  #results_stichentscheid <- get_results_kantonal(json_data_kantone,
+  #                                               kantonal_number_special[k],
+  #                                               kantonal_add_special[k]+2)
   
   #Simulation Gemeinden
   #source("data_simulation_stichentscheid.R")
@@ -129,3 +130,4 @@ for (k in 1:length(kantonal_short_special) ) {
   cat(paste0("\nGenerated output for Vorlage ",kantonal_short_special[k],"\n"))
   
 }
+
