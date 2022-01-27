@@ -88,7 +88,7 @@ for (k in 1:length(kantonal_short_special) ) {
     Textbausteine <- as.data.frame(read_excel(paste0("Data/Textbausteine_LENA_",abstimmung_date,".xlsx"), 
                                               sheet = kantonal_short_special[k]))
     cat("Textvorlagen geladen\n\n")
-    
+
 
     #Texte einfügen
     results <- build_texts(results)
