@@ -45,3 +45,13 @@ output_dw_FM1_today <- results[results$Kanton_Short == "SG" |
 output_dw_FM1_today <- get_output_gemeinden(output_dw_FM1_today)
 
 write.csv(output_dw_FM1_today,paste0("Output/",vorlagen_short[i],"_dw_FM1_today.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+
+###Output generieren für Datawrapper Basel
+
+output_dw_basel <- results[results$Kanton_Short == "BS" |
+                                 results$Kanton_Short == "BL",]
+
+output_dw_basel <- get_output_gemeinden(output_dw_basel)
+
+write.csv(output_dw_basel,paste0("Output/",vorlagen_short[i],"_dw_basel.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+
