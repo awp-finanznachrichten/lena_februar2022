@@ -1,11 +1,12 @@
 ###Output generieren für Datawrapper Zentralschweiz
 
 output_dw_zentralschweiz <- results[results$Kanton_Short == "LU" |
-                                      results$Kanton_Short == "UR" |
                                       results$Kanton_Short == "SZ" |
                                       results$Kanton_Short == "OW" |
                                       results$Kanton_Short == "NW" |
-                                      results$Kanton_Short == "ZG",]
+                                      results$Kanton_Short == "ZG" |
+                                      results$Gemeinde_Nr < 15,]
+
 
 output_dw_zentralschweiz <- get_output_gemeinden(output_dw_zentralschweiz)
 
