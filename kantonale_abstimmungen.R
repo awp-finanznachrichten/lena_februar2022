@@ -64,7 +64,7 @@ results$Ja_Stimmen_In_Prozent_Kanton <- 55  #Ja_Stimmen_Kanton Simulation
     if (json_data_kantone$kantone$vorlagen[[kantonal_number[k]]]$vorlageBeendet[[kantonal_add[k]]] == FALSE) {
       
     if (kantonal_short[k] == "BS_Primaten") {
-    cat("Kein kantonaler Vergleich")  
+    cat("Kein kantonaler Vergleich\n\n")  
     } else {  
     results <- kanton_storyfinder_kantonal(results)
     }
