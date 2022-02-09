@@ -10,14 +10,14 @@ for (i in 1:length(vorlagen_short)) {
   results_national <- get_results(json_data,i,level="national")
   
 ###Nationale Resultate simulieren
-set.seed(i)
-results_national$jaStimmenInProzent <- sample(0:100,1)
+#set.seed(i)
+#results_national$jaStimmenInProzent <- sample(0:100,1)
 
   ###Resultate aus JSON auslesen für Gemeinden
   results <- get_results(json_data,i)
   
 #Simulation Gemeinden
-source("data_simulation_gemeinden.R")
+#source("data_simulation_gemeinden.R")
   
 
   #Emergency adapt
@@ -33,10 +33,8 @@ source("data_simulation_gemeinden.R")
   #Kantonsdaten hinzufügen
   results_kantone <- get_results(json_data,i,"cantonal")
   
-
-  
 #Simulation Kantone
-source("data_simulation_kantone.R")
+#source("data_simulation_kantone.R")
   
   Ja_Stimmen_Kanton <- results_kantone %>%
     select(Kantons_Nr,jaStimmenInProzent) %>%
@@ -189,6 +187,10 @@ source("data_simulation_kantone.R")
   print(paste0("Nein-Stimmen: ",nrow(count_non_gemeinden),"; Ja-Stimmen: ",nrow(count_yes_gemeinden),
                "; Unentschieden: ",nrow(count_tie_gemeinden)))
   
+  #Stimmbeteiligung
+  print(paste0("Stimmbeteiligung: ",results_national$stimmbeteiligungInProzent," %"))
+  
+  
   
   source("outputs_einzugsgebiete.R", encoding = "UTF-8")
   
@@ -291,11 +293,6 @@ data_overview <- rbind(data_overview,entry_overview)
 
 #Uebersicht für Datawrapper
 data_overview <- data_overview[-1,]
-
-#Adapt Data Overview
-data_overview$Abstimmung_de <- gsub(" [(]Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen[)]","",data_overview$Abstimmung_de)
-data_overview$Abstimmung_fr <- gsub(" [(]Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifestations[)]","",data_overview$Abstimmung_fr)
-data_overview$Abstimmung_it <- gsub(" [(]Casi di rigore, assicurazione contro la disoccupazione, custodia di bambini complementare alla famiglia, operatori culturali, eventi[)]","",data_overview$Abstimmung_it)
 
 write.csv(data_overview,"Output/Uebersicht_dw.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
