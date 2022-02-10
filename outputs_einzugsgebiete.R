@@ -5,6 +5,7 @@ output_dw_zentralschweiz <- results[results$Kanton_Short == "LU" |
                                       results$Kanton_Short == "OW" |
                                       results$Kanton_Short == "NW" |
                                       results$Kanton_Short == "ZG" |
+                                      results$Kanton_Short == "UR" |
                                       results$Gemeinde_Nr < 15,]
 
 

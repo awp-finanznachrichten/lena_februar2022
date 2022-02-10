@@ -187,10 +187,12 @@ for (i in 1:length(vorlagen_short)) {
   print(paste0("Nein-Stimmen: ",nrow(count_non_gemeinden),"; Ja-Stimmen: ",nrow(count_yes_gemeinden),
                "; Unentschieden: ",nrow(count_tie_gemeinden)))
   
-  #Stimmbeteiligung
+  #Stimmbeteiligung und Ständemehr
   print(paste0("Stimmbeteiligung: ",results_national$stimmbeteiligungInProzent," %"))
+  print(paste0("Stände JA: ",results_national$jaStaendeGanz+(results_national$jaStaendeHalb/2)))
+  print(paste0("Stände NEIN: ",results_national$neinStaendeGanz+(results_national$neinStaendeHalb/2)))
   
-  
+
   
   source("outputs_einzugsgebiete.R", encoding = "UTF-8")
   
