@@ -1,5 +1,5 @@
 "Kantons_Nr","Kanton_d","Kanton_f","Kanton_i","Ja_Stimmen_In_Prozent_Kanton","Nein_Stimmen_In_Prozent_Kanton","Kanton_color","Gemeinden_overall","Gemeinden_counted","Legende"
-1,"Zürich","Zurich","Zurigo",19.9,80.1,0,162,149,"149/162"
+1,"Zürich","Zurich","Zurigo",19.9,80.1,0,162,151,"151/162"
 2,"Bern","Berne","Berna",0,0,50,334,0,"0/334"
 3,"Luzern","Lucerne","Lucerna",18.9,81.1,0,80,78,"78/80"
 4,"Uri","Uri","Uri",0,0,50,19,0,"0/19"
@@ -7,9 +7,9 @@
 6,"Obwalden","Obwald","Obvaldo",16.1,83.9,0,7,4,"4/7"
 7,"Nidwalden","Nidwald","Nidvaldo",16.8,83.2,16.8,11,11,
 8,"Glarus","Glaris","Glarona",22.2,77.8,22.2,3,3,
-9,"Zug","Zoug","Zugo",0,0,50,11,0,"0/11"
+9,"Zug","Zoug","Zugo",17.4,82.6,17.4,11,11,
 10,"Freiburg","Fribourg","Friburgo",20.7,79.3,0,126,125,"125/126"
-11,"Solothurn","Soleure","Soletta",21,79,0,107,103,"103/107"
+11,"Solothurn","Soleure","Soletta",21,79,0,107,104,"104/107"
 12,"Basel-Stadt","Bâle-Ville","Basilea Città",0,0,50,3,0,"0/3"
 13,"Basel-Landschaft","Bâle-Campagne","Basilea Campagna",17.8,82.2,0,86,78,"78/86"
 14,"Schaffhausen","Schaffhouse","Sciaffusa",0,0,50,26,0,"0/26"
@@ -19,9 +19,9 @@
 18,"Graubünden","Grisons","Grigioni",22,78,0,101,100,"100/101"
 19,"Aargau","Argovie","Argovia",20,80,20,200,200,
 20,"Thurgau","Thurgovie","Turgovia",22.2,77.8,0,80,79,"79/80"
-21,"Tessin","Tessin","Ticino",31.9,68.1,0,108,95,"95/108"
-22,"Waadt","Vaud","Vaud",18.4,81.6,0,300,295,"295/300"
-23,"Wallis","Valais","Vallese",18.4,81.6,0,122,119,"119/122"
+21,"Tessin","Tessin","Ticino",32.1,67.9,0,108,100,"100/108"
+22,"Waadt","Vaud","Vaud",18.4,81.6,0,300,296,"296/300"
+23,"Wallis","Valais","Vallese",18.6,81.4,18.6,122,122,
 24,"Neuenburg","Neuchâtel","Neuchâtel",0,0,50,27,0,"0/27"
 25,"Genf","Genève","Ginevra",0,0,50,45,0,"0/45"
 26,"Jura","Jura","Giura",23,77,0,53,35,"35/53"

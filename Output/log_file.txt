@@ -311,3 +311,27 @@ Nidwalden, Glarus, Appenzell Ausserrhoden, Aargau,
 
 2022-02-13 13:11:27 Medien
 Nidwalden, Glarus, Appenzell Ausserrhoden, Aargau, 
+
+2022-02-13 13:13:06 Tierversuche
+Nidwalden, Glarus, Appenzell Ausserrhoden, Aargau, 
+
+2022-02-13 13:13:45 Tabakwerbung
+Nidwalden, Glarus, Appenzell Ausserrhoden, Aargau, 
+
+2022-02-13 13:14:23 Stempelabgaben
+Nidwalden, Glarus, Appenzell Ausserrhoden, Aargau, 
+
+2022-02-13 13:14:56 Medien
+Nidwalden, Glarus, Appenzell Ausserrhoden, Aargau, 
+
+2022-02-13 13:16:26 Tierversuche
+Nidwalden, Glarus, Zug, Appenzell Ausserrhoden, Aargau, Wallis, 
+
+2022-02-13 13:17:02 Tabakwerbung
+Nidwalden, Glarus, Zug, Appenzell Ausserrhoden, Aargau, Wallis, 
+
+2022-02-13 13:17:37 Stempelabgaben
+Nidwalden, Glarus, Zug, Appenzell Ausserrhoden, Aargau, Wallis, 
+
+2022-02-13 13:18:09 Medien
+Nidwalden, Glarus, Zug, Appenzell Ausserrhoden, Aargau, Wallis, 
