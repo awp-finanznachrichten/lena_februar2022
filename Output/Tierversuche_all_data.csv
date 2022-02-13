@@ -2090,56 +2090,56 @@
 25,6643,,,,,,,,FALSE,"GE","Vernier","Vernier","Vernier","Vernier GE","Vernier (GE)","Vernier GE","Genf","Genève","Ginevra",,FALSE,FALSE
 25,6644,,,,,,,,FALSE,"GE","Versoix","Versoix","Versoix","Versoix GE","Versoix (GE)","Versoix GE","Genf","Genève","Ginevra",,FALSE,FALSE
 25,6645,,,,,,,,FALSE,"GE","Veyrier","Veyrier","Veyrier","Veyrier GE","Veyrier (GE)","Veyrier GE","Genf","Genève","Ginevra",,FALSE,FALSE
-26,6702,,,,,,,,FALSE,"JU","Boécourt","Boécourt","Boécourt","Boécourt JU","Boécourt (JU)","Boécourt JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6703,,,,,,,,FALSE,"JU","Bourrignon","Bourrignon","Bourrignon","Bourrignon JU","Bourrignon (JU)","Bourrignon JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6704,24.183006536,37,116,44.444444444,156,351,153,TRUE,"JU","Châtillon JU","Châtillon (JU)","Châtillon JU","Châtillon JU","Châtillon (JU)","Châtillon JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6706,17.117117117,19,92,33.731343284,113,335,111,TRUE,"JU","Courchapoix","Courchapoix","Courchapoix","Courchapoix JU","Courchapoix (JU)","Courchapoix JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6708,,,,,,,,FALSE,"JU","Courrendlin","Courrendlin","Courrendlin","Courrendlin JU","Courrendlin (JU)","Courrendlin JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6709,21.394230769,178,654,36.491677337,855,2343,832,TRUE,"JU","Courroux","Courroux","Courroux","Courroux JU","Courroux (JU)","Courroux JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6710,,,,,,,,FALSE,"JU","Courtételle","Courtételle","Courtételle","Courtételle JU","Courtételle (JU)","Courtételle JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6711,,,,,,,,FALSE,"JU","Delsberg","Delémont","Delsberg","Delsberg JU","Delémont (JU)","Delsberg JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6712,22.222222222,74,259,35.453597497,340,959,333,TRUE,"JU","Develier","Develier","Develier","Develier JU","Develier (JU)","Develier JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6713,21.052631579,8,30,39.175257732,38,97,38,TRUE,"JU","Ederswiler","Ederswiler","Ederswiler","Ederswiler JU","Ederswiler (JU)","Ederswiler JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6715,21.621621622,32,116,36.170212766,153,423,148,TRUE,"JU","Mervelier","Mervelier","Mervelier","Mervelier JU","Mervelier (JU)","Mervelier JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6716,42.857142857,18,24,53.086419753,43,81,42,TRUE,"JU","Mettembert","Mettembert","Mettembert","Mettembert JU","Mettembert (JU)","Mettembert JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6718,22.535211268,32,110,42.182890855,143,339,142,TRUE,"JU","Movelier","Movelier","Movelier","Movelier JU","Movelier (JU)","Movelier JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6719,25.663716814,29,84,38.562091503,118,306,113,TRUE,"JU","Pleigne","Pleigne","Pleigne","Pleigne JU","Pleigne (JU)","Pleigne JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6721,19.444444444,42,174,42.175572519,221,524,216,TRUE,"JU","Rossemaison","Rossemaison","Rossemaison","Rossemaison JU","Rossemaison (JU)","Rossemaison JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6722,20.512820513,16,62,37.558685446,80,213,78,TRUE,"JU","Saulcy","Saulcy","Saulcy","Saulcy JU","Saulcy (JU)","Saulcy JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6724,30.357142857,34,78,35.202492212,113,321,112,TRUE,"JU","Soyhières","Soyhières","Soyhières","Soyhières JU","Soyhières (JU)","Soyhières JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6729,,,,,,,,FALSE,"JU","Haute-Sorne","Haute-Sorne","Haute-Sorne","Haute-Sorne JU","Haute-Sorne (JU)","Haute-Sorne JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6730,21.916167665,183,652,34.080897076,851,2497,835,TRUE,"JU","Val Terbi","Val Terbi","Val Terbi","Val Terbi JU","Val Terbi (JU)","Val Terbi JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6741,18.095238095,19,86,36.678200692,106,289,105,TRUE,"JU","Le Bémont JU","Le Bémont (JU)","Le Bémont JU","Le Bémont JU","Le Bémont (JU)","Le Bémont JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6742,,,,,,,,FALSE,"JU","Les Bois","Les Bois","Les Bois","Les Bois JU","Les Bois (JU)","Les Bois JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6743,,,,,,,,FALSE,"JU","Les Breuleux","Les Breuleux","Les Breuleux","Les Breuleux JU","Les Breuleux (JU)","Les Breuleux JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6744,34.090909091,15,29,51.162790698,44,86,44,TRUE,"JU","La Chaux-des-Breuleux","La Chaux-des-Breuleux","La Chaux-des-Breuleux","La Chaux-des-Breuleux JU","La Chaux-des-Breuleux (JU)","La Chaux-des-Breuleux JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6745,,,,,,,,FALSE,"JU","Les Enfers","Les Enfers","Les Enfers","Les Enfers JU","Les Enfers (JU)","Les Enfers JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6748,18.382352941,25,111,31.954022989,139,435,136,TRUE,"JU","Les Genevez JU","Les Genevez (JU)","Les Genevez JU","Les Genevez JU","Les Genevez (JU)","Les Genevez JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6750,25.789473684,49,141,34.904013962,200,573,190,TRUE,"JU","Lajoux JU","Lajoux (JU)","Lajoux JU","Lajoux JU","Lajoux (JU)","Lajoux JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6751,24.864864865,46,139,41.266375546,189,458,185,TRUE,"JU","Montfaucon","Montfaucon","Montfaucon","Montfaucon JU","Montfaucon (JU)","Montfaucon JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6753,21.808510638,41,147,40.85106383,192,470,188,TRUE,"JU","Muriaux","Muriaux","Muriaux","Muriaux JU","Muriaux (JU)","Muriaux JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6754,,,,,,,,FALSE,"JU","Le Noirmont","Le Noirmont","Le Noirmont","Le Noirmont JU","Le Noirmont (JU)","Le Noirmont JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6757,18.117977528,129,583,34.388285309,728,2117,712,TRUE,"JU","Saignelégier","Saignelégier","Saignelégier","Saignelégier JU","Saignelégier (JU)","Saignelégier JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6758,21.739130435,15,54,36.979166667,71,192,69,TRUE,"JU","Saint-Brais","Saint-Brais","Saint-Brais","Saint-Brais JU","Saint-Brais (JU)","Saint-Brais JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6759,10.526315789,4,34,29.6875,38,128,38,TRUE,"JU","Soubey","Soubey","Soubey","Soubey JU","Soubey (JU)","Soubey JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6771,,,,,,,,FALSE,"JU","Alle","Alle","Alle","Alle JU","Alle (JU)","Alle JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6773,38.775510204,19,30,45.535714286,51,112,49,TRUE,"JU","Beurnevésin","Beurnevésin","Beurnevésin","Beurnevésin JU","Beurnevésin (JU)","Beurnevésin JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6774,22.857142857,80,270,35.445544554,358,1010,350,TRUE,"JU","Boncourt","Boncourt","Boncourt","Boncourt JU","Boncourt (JU)","Boncourt JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6775,34.946236559,65,121,31.780366057,191,601,186,TRUE,"JU","Bonfol","Bonfol","Bonfol","Bonfol JU","Bonfol (JU)","Bonfol JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6778,,,,,,,,FALSE,"JU","Bure","Bure","Bure","Bure JU","Bure (JU)","Bure JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6781,19.323671498,40,167,37.01754386,211,570,207,TRUE,"JU","Coeuve","Coeuve","Coeuve","Coeuve JU","Coeuve (JU)","Coeuve JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6782,27.927927928,62,160,28.373266078,225,793,222,TRUE,"JU","Cornol","Cornol","Cornol","Cornol JU","Cornol (JU)","Cornol JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6783,19.78021978,18,73,40.434782609,93,230,91,TRUE,"JU","Courchavon","Courchavon","Courchavon","Courchavon JU","Courchavon (JU)","Courchavon JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6784,,,,,,,,FALSE,"JU","Courgenay","Courgenay","Courgenay","Courgenay JU","Courgenay (JU)","Courgenay JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6785,25.358851675,53,156,36.98630137,216,584,209,TRUE,"JU","Courtedoux","Courtedoux","Courtedoux","Courtedoux JU","Courtedoux (JU)","Courtedoux JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6787,21.505376344,20,73,64.052287582,98,153,93,TRUE,"JU","Damphreux","Damphreux","Damphreux","Damphreux JU","Damphreux (JU)","Damphreux JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6789,25.23364486,27,80,37.931034483,110,290,107,TRUE,"JU","Fahy","Fahy","Fahy","Fahy JU","Fahy (JU)","Fahy JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6790,28.47826087,131,329,36.175115207,471,1302,460,TRUE,"JU","Fontenais","Fontenais","Fontenais","Fontenais JU","Fontenais (JU)","Fontenais JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6792,,,,,,,,FALSE,"JU","Grandfontaine","Grandfontaine","Grandfontaine","Grandfontaine JU","Grandfontaine (JU)","Grandfontaine JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6793,20.481927711,17,66,59.027777778,85,144,83,TRUE,"JU","Lugnez","Lugnez","Lugnez","Lugnez JU","Lugnez (JU)","Lugnez JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6800,,,,,,,,FALSE,"JU","Pruntrut","Porrentruy","Pruntrut","Pruntrut JU","Porrentruy (JU)","Pruntrut JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6806,,,,,,,,FALSE,"JU","Vendlincourt","Vendlincourt","Vendlincourt","Vendlincourt JU","Vendlincourt (JU)","Vendlincourt JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6807,20.634920635,65,250,33.472803347,320,956,315,TRUE,"JU","Basse-Allaine","Basse-Allaine","Basse-Allaine","Basse-Allaine JU","Basse-Allaine (JU)","Basse-Allaine JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6808,,,,,,,,FALSE,"JU","Clos du Doubs","Clos du Doubs","Clos du Doubs","Clos du Doubs JU","Clos du Doubs (JU)","Clos du Doubs JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6809,,,,,,,,FALSE,"JU","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie JU","Haute-Ajoie (JU)","Haute-Ajoie JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
-26,6810,27.462686567,92,243,35.646687697,339,951,335,TRUE,"JU","La Baroche","La Baroche","La Baroche","La Baroche JU","La Baroche (JU)","La Baroche JU","Jura","Jura","Giura",23.03706656,FALSE,FALSE
+26,6702,27.118644068,80,215,40.766073871,298,731,295,TRUE,"JU","Boécourt","Boécourt","Boécourt","Boécourt JU","Boécourt (JU)","Boécourt JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6703,18.367346939,18,80,41.463414634,102,246,98,TRUE,"JU","Bourrignon","Bourrignon","Bourrignon","Bourrignon JU","Bourrignon (JU)","Bourrignon JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6704,24.183006536,37,116,44.444444444,156,351,153,TRUE,"JU","Châtillon JU","Châtillon (JU)","Châtillon JU","Châtillon JU","Châtillon (JU)","Châtillon JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6706,17.117117117,19,92,33.731343284,113,335,111,TRUE,"JU","Courchapoix","Courchapoix","Courchapoix","Courchapoix JU","Courchapoix (JU)","Courchapoix JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6708,22.6342711,177,605,33.855268726,800,2363,782,TRUE,"JU","Courrendlin","Courrendlin","Courrendlin","Courrendlin JU","Courrendlin (JU)","Courrendlin JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6709,21.394230769,178,654,36.491677337,855,2343,832,TRUE,"JU","Courroux","Courroux","Courroux","Courroux JU","Courroux (JU)","Courroux JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6710,19.469026549,132,546,37.506688068,701,1869,678,TRUE,"JU","Courtételle","Courtételle","Courtételle","Courtételle JU","Courtételle (JU)","Courtételle JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6711,23.112208892,655,2179,38.200919238,2909,7615,2834,TRUE,"JU","Delsberg","Delémont","Delsberg","Delsberg JU","Delémont (JU)","Delsberg JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6712,22.222222222,74,259,35.453597497,340,959,333,TRUE,"JU","Develier","Develier","Develier","Develier JU","Develier (JU)","Develier JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6713,21.052631579,8,30,39.175257732,38,97,38,TRUE,"JU","Ederswiler","Ederswiler","Ederswiler","Ederswiler JU","Ederswiler (JU)","Ederswiler JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6715,21.621621622,32,116,36.170212766,153,423,148,TRUE,"JU","Mervelier","Mervelier","Mervelier","Mervelier JU","Mervelier (JU)","Mervelier JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6716,42.857142857,18,24,53.086419753,43,81,42,TRUE,"JU","Mettembert","Mettembert","Mettembert","Mettembert JU","Mettembert (JU)","Mettembert JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6718,22.535211268,32,110,42.182890855,143,339,142,TRUE,"JU","Movelier","Movelier","Movelier","Movelier JU","Movelier (JU)","Movelier JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6719,25.663716814,29,84,38.562091503,118,306,113,TRUE,"JU","Pleigne","Pleigne","Pleigne","Pleigne JU","Pleigne (JU)","Pleigne JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6721,19.444444444,42,174,42.175572519,221,524,216,TRUE,"JU","Rossemaison","Rossemaison","Rossemaison","Rossemaison JU","Rossemaison (JU)","Rossemaison JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6722,20.512820513,16,62,37.558685446,80,213,78,TRUE,"JU","Saulcy","Saulcy","Saulcy","Saulcy JU","Saulcy (JU)","Saulcy JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6724,30.357142857,34,78,35.202492212,113,321,112,TRUE,"JU","Soyhières","Soyhières","Soyhières","Soyhières JU","Soyhières (JU)","Soyhières JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6729,25.39503386,450,1322,35.432607416,1806,5097,1772,TRUE,"JU","Haute-Sorne","Haute-Sorne","Haute-Sorne","Haute-Sorne JU","Haute-Sorne (JU)","Haute-Sorne JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6730,21.916167665,183,652,34.080897076,851,2497,835,TRUE,"JU","Val Terbi","Val Terbi","Val Terbi","Val Terbi JU","Val Terbi (JU)","Val Terbi JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6741,18.095238095,19,86,36.678200692,106,289,105,TRUE,"JU","Le Bémont JU","Le Bémont (JU)","Le Bémont JU","Le Bémont JU","Le Bémont (JU)","Le Bémont JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6742,22.822822823,76,257,35.102040816,344,980,333,TRUE,"JU","Les Bois","Les Bois","Les Bois","Les Bois JU","Les Bois (JU)","Les Bois JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6743,12.705882353,54,371,40.419708029,443,1096,425,TRUE,"JU","Les Breuleux","Les Breuleux","Les Breuleux","Les Breuleux JU","Les Breuleux (JU)","Les Breuleux JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6744,34.090909091,15,29,51.162790698,44,86,44,TRUE,"JU","La Chaux-des-Breuleux","La Chaux-des-Breuleux","La Chaux-des-Breuleux","La Chaux-des-Breuleux JU","La Chaux-des-Breuleux (JU)","La Chaux-des-Breuleux JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6745,24.590163934,15,46,54.166666667,65,120,61,TRUE,"JU","Les Enfers","Les Enfers","Les Enfers","Les Enfers JU","Les Enfers (JU)","Les Enfers JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6748,18.382352941,25,111,31.954022989,139,435,136,TRUE,"JU","Les Genevez JU","Les Genevez (JU)","Les Genevez JU","Les Genevez JU","Les Genevez (JU)","Les Genevez JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6750,25.789473684,49,141,34.904013962,200,573,190,TRUE,"JU","Lajoux JU","Lajoux (JU)","Lajoux JU","Lajoux JU","Lajoux (JU)","Lajoux JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6751,24.864864865,46,139,41.266375546,189,458,185,TRUE,"JU","Montfaucon","Montfaucon","Montfaucon","Montfaucon JU","Montfaucon (JU)","Montfaucon JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6753,21.808510638,41,147,40.85106383,192,470,188,TRUE,"JU","Muriaux","Muriaux","Muriaux","Muriaux JU","Muriaux (JU)","Muriaux JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6754,24.008350731,115,364,35.486211901,489,1378,479,TRUE,"JU","Le Noirmont","Le Noirmont","Le Noirmont","Le Noirmont JU","Le Noirmont (JU)","Le Noirmont JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6757,18.117977528,129,583,34.388285309,728,2117,712,TRUE,"JU","Saignelégier","Saignelégier","Saignelégier","Saignelégier JU","Saignelégier (JU)","Saignelégier JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6758,21.739130435,15,54,36.979166667,71,192,69,TRUE,"JU","Saint-Brais","Saint-Brais","Saint-Brais","Saint-Brais JU","Saint-Brais (JU)","Saint-Brais JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6759,10.526315789,4,34,29.6875,38,128,38,TRUE,"JU","Soubey","Soubey","Soubey","Soubey JU","Soubey (JU)","Soubey JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6771,22.755741127,109,370,34.5,483,1400,479,TRUE,"JU","Alle","Alle","Alle","Alle JU","Alle (JU)","Alle JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6773,38.775510204,19,30,45.535714286,51,112,49,TRUE,"JU","Beurnevésin","Beurnevésin","Beurnevésin","Beurnevésin JU","Beurnevésin (JU)","Beurnevésin JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6774,22.857142857,80,270,35.445544554,358,1010,350,TRUE,"JU","Boncourt","Boncourt","Boncourt","Boncourt JU","Boncourt (JU)","Boncourt JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6775,34.946236559,65,121,31.780366057,191,601,186,TRUE,"JU","Bonfol","Bonfol","Bonfol","Bonfol JU","Bonfol (JU)","Bonfol JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6778,18.407960199,37,164,36.412078153,205,563,201,TRUE,"JU","Bure","Bure","Bure","Bure JU","Bure (JU)","Bure JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6781,19.323671498,40,167,37.01754386,211,570,207,TRUE,"JU","Coeuve","Coeuve","Coeuve","Coeuve JU","Coeuve (JU)","Coeuve JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6782,27.927927928,62,160,28.373266078,225,793,222,TRUE,"JU","Cornol","Cornol","Cornol","Cornol JU","Cornol (JU)","Cornol JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6783,19.78021978,18,73,40.434782609,93,230,91,TRUE,"JU","Courchavon","Courchavon","Courchavon","Courchavon JU","Courchavon (JU)","Courchavon JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6784,21.946902655,124,441,31.951354339,578,1809,565,TRUE,"JU","Courgenay","Courgenay","Courgenay","Courgenay JU","Courgenay (JU)","Courgenay JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6785,25.358851675,53,156,36.98630137,216,584,209,TRUE,"JU","Courtedoux","Courtedoux","Courtedoux","Courtedoux JU","Courtedoux (JU)","Courtedoux JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6787,21.505376344,20,73,64.052287582,98,153,93,TRUE,"JU","Damphreux","Damphreux","Damphreux","Damphreux JU","Damphreux (JU)","Damphreux JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6789,25.23364486,27,80,37.931034483,110,290,107,TRUE,"JU","Fahy","Fahy","Fahy","Fahy JU","Fahy (JU)","Fahy JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6790,28.47826087,131,329,36.175115207,471,1302,460,TRUE,"JU","Fontenais","Fontenais","Fontenais","Fontenais JU","Fontenais (JU)","Fontenais JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6792,31.25,40,88,39.877300613,130,326,128,TRUE,"JU","Grandfontaine","Grandfontaine","Grandfontaine","Grandfontaine JU","Grandfontaine (JU)","Grandfontaine JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6793,20.481927711,17,66,59.027777778,85,144,83,TRUE,"JU","Lugnez","Lugnez","Lugnez","Lugnez JU","Lugnez (JU)","Lugnez JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6800,21.157436217,340,1267,35.77941815,1648,4606,1607,TRUE,"JU","Pruntrut","Porrentruy","Pruntrut","Pruntrut JU","Porrentruy (JU)","Pruntrut JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6806,25.142857143,44,131,36.326530612,178,490,175,TRUE,"JU","Vendlincourt","Vendlincourt","Vendlincourt","Vendlincourt JU","Vendlincourt (JU)","Vendlincourt JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6807,20.634920635,65,250,33.472803347,320,956,315,TRUE,"JU","Basse-Allaine","Basse-Allaine","Basse-Allaine","Basse-Allaine JU","Basse-Allaine (JU)","Basse-Allaine JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6808,27.532467532,106,279,34.358523726,391,1138,385,TRUE,"JU","Clos du Doubs","Clos du Doubs","Clos du Doubs","Clos du Doubs JU","Clos du Doubs (JU)","Clos du Doubs JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6809,22.371967655,83,288,37.162837163,372,1001,371,TRUE,"JU","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie JU","Haute-Ajoie (JU)","Haute-Ajoie JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
+26,6810,27.462686567,92,243,35.646687697,339,951,335,TRUE,"JU","La Baroche","La Baroche","La Baroche","La Baroche JU","La Baroche (JU)","La Baroche JU","Jura","Jura","Giura",22.865329513,FALSE,FALSE
