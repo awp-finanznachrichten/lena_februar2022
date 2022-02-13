@@ -1,22 +1,22 @@
 "Kantons_Nr","Kanton_d","Kanton_f","Kanton_i","Ja_Stimmen_In_Prozent_Kanton","Nein_Stimmen_In_Prozent_Kanton","Kanton_color","Gemeinden_overall","Gemeinden_counted","Legende"
-1,"Zürich","Zurich","Zurigo",40.3,59.7,0,162,153,"153/162"
-2,"Bern","Berne","Berna",0,0,50,334,0,"0/334"
+1,"Zürich","Zurich","Zurigo",40.3,59.7,0,162,155,"155/162"
+2,"Bern","Berne","Berna",31.7,68.3,0,334,13,"13/334"
 3,"Luzern","Lucerne","Lucerna",39.4,60.6,39.4,80,80,
-4,"Uri","Uri","Uri",0,0,50,19,0,"0/19"
+4,"Uri","Uri","Uri",35.9,64.1,35.9,19,19,
 5,"Schwyz","Schwyz","Svitto",42.8,57.2,0,30,27,"27/30"
 6,"Obwalden","Obwald","Obvaldo",42.8,57.2,0,7,6,"6/7"
 7,"Nidwalden","Nidwald","Nidvaldo",46.6,53.4,46.6,11,11,
 8,"Glarus","Glaris","Glarona",37,63,37,3,3,
 9,"Zug","Zoug","Zugo",51.1,48.9,51.1,11,11,
 10,"Freiburg","Fribourg","Friburgo",36.1,63.9,0,126,125,"125/126"
-11,"Solothurn","Soleure","Soletta",33.9,66.1,0,107,105,"105/107"
+11,"Solothurn","Soleure","Soletta",33.8,66.2,0,107,106,"106/107"
 12,"Basel-Stadt","Bâle-Ville","Basilea Città",0,0,50,3,0,"0/3"
 13,"Basel-Landschaft","Bâle-Campagne","Basilea Campagna",35.7,64.3,0,86,78,"78/86"
 14,"Schaffhausen","Schaffhouse","Sciaffusa",0,0,50,26,0,"0/26"
 15,"Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",37.6,62.4,37.6,20,20,
 16,"Appenzell Innerrhoden","Appenzell Rhodes-Intérieures","Appenzello Interno",0,0,50,6,0,"0/6"
-17,"St. Gallen","Saint-Gall","San Gallo",38.1,61.9,0,77,56,"56/77"
-18,"Graubünden","Grisons","Grigioni",41.6,58.4,0,101,100,"100/101"
+17,"St. Gallen","Saint-Gall","San Gallo",38,62,38,77,77,
+18,"Graubünden","Grisons","Grigioni",41.1,58.9,41.1,101,101,
 19,"Aargau","Argovie","Argovia",38.3,61.7,38.3,200,200,
 20,"Thurgau","Thurgovie","Turgovia",0,0,50,80,0,"0/80"
 21,"Tessin","Tessin","Ticino",46,54,0,108,106,"106/108"
