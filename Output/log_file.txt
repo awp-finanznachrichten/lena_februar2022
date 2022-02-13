@@ -407,3 +407,15 @@ Luzern, Uri, Obwalden, Nidwalden, Glarus, Zug, Solothurn, Appenzell Ausserrhoden
 
 2022-02-13 13:43:32 Medien
 Luzern, Uri, Obwalden, Nidwalden, Glarus, Zug, Solothurn, Appenzell Ausserrhoden, St. Gallen, Graubünden, Aargau, Wallis, 
+
+2022-02-13 13:45:25 Tierversuche
+Luzern, Uri, Obwalden, Nidwalden, Glarus, Zug, Solothurn, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Wallis, 
+
+2022-02-13 13:46:09 Tabakwerbung
+Luzern, Uri, Obwalden, Nidwalden, Glarus, Zug, Solothurn, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Wallis, 
+
+2022-02-13 13:46:54 Stempelabgaben
+Luzern, Uri, Obwalden, Nidwalden, Glarus, Zug, Solothurn, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Wallis, 
+
+2022-02-13 13:47:34 Medien
+Luzern, Uri, Obwalden, Nidwalden, Glarus, Zug, Solothurn, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Wallis, 
