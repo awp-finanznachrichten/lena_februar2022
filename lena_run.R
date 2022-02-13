@@ -31,7 +31,7 @@ source("kantonale_abstimmungen.R", encoding="UTF-8")
 ###Kantonale Abstimmungen Sonderfälle###
 source("kantonale_abstimmungen_special.R", encoding="UTF-8")
 
-###Datenfeeds für Kunden"""
+###Datenfeeds für Kunden###
 source("datenfeeds_kunden.R", encoding="UTF-8")
 
 #Make Commit
