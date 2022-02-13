@@ -239,3 +239,15 @@ Nidwalden, Glarus, Aargau,
 
 2022-02-13 12:50:11 Medien
 Nidwalden, Glarus, Aargau, 
+
+2022-02-13 12:51:57 Tierversuche
+Nidwalden, Glarus, Aargau, 
+
+2022-02-13 12:52:38 Tabakwerbung
+Nidwalden, Glarus, Aargau, 
+
+2022-02-13 12:53:16 Stempelabgaben
+Nidwalden, Glarus, Aargau, 
+
+2022-02-13 12:53:48 Medien
+Nidwalden, Glarus, Aargau, 
