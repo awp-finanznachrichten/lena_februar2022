@@ -347,3 +347,15 @@ Luzern, Nidwalden, Glarus, Zug, Appenzell Ausserrhoden, Aargau, Wallis,
 
 2022-02-13 13:21:30 Medien
 Luzern, Nidwalden, Glarus, Zug, Appenzell Ausserrhoden, Aargau, Wallis, 
+
+2022-02-13 13:23:25 Tierversuche
+Luzern, Nidwalden, Glarus, Zug, Appenzell Ausserrhoden, Aargau, Thurgau, Wallis, 
+
+2022-02-13 13:24:00 Tabakwerbung
+Luzern, Nidwalden, Glarus, Zug, Appenzell Ausserrhoden, Aargau, Wallis, 
+
+2022-02-13 13:24:33 Stempelabgaben
+Luzern, Nidwalden, Glarus, Zug, Appenzell Ausserrhoden, Aargau, Wallis, 
+
+2022-02-13 13:25:04 Medien
+Luzern, Nidwalden, Glarus, Zug, Appenzell Ausserrhoden, Aargau, Wallis, 
