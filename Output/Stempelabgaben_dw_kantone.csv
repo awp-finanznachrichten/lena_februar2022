@@ -11,7 +11,7 @@
 10,"Freiburg","Fribourg","Friburgo",36.2,63.8,36.2,126,126,
 11,"Solothurn","Soleure","Soletta",33.7,66.3,33.7,107,107,
 12,"Basel-Stadt","Bâle-Ville","Basilea Città",0,0,50,3,0,"0/3"
-13,"Basel-Landschaft","Bâle-Campagne","Basilea Campagna",35.7,64.3,0,86,78,"78/86"
+13,"Basel-Landschaft","Bâle-Campagne","Basilea Campagna",34.1,65.9,34.1,86,86,
 14,"Schaffhausen","Schaffhouse","Sciaffusa",38.2,61.8,38.2,26,26,
 15,"Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",37.6,62.4,37.6,20,20,
 16,"Appenzell Innerrhoden","Appenzell Rhodes-Intérieures","Appenzello Interno",40.7,59.3,40.7,6,6,
@@ -23,5 +23,5 @@
 22,"Waadt","Vaud","Vaud",40.7,59.3,0,300,299,"299/300"
 23,"Wallis","Valais","Vallese",40.2,59.8,40.2,122,122,
 24,"Neuenburg","Neuchâtel","Neuchâtel",35.4,64.6,35.4,27,27,
-25,"Genf","Genève","Ginevra",0,0,50,45,0,"0/45"
+25,"Genf","Genève","Ginevra",39.5,60.5,39.5,45,45,
 26,"Jura","Jura","Giura",29.5,70.5,29.5,53,53,
