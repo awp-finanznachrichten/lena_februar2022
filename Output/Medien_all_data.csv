@@ -594,36 +594,36 @@
 4,1218,,,,,,,,FALSE,"UR","Spiringen","Spiringen","Spiringen","Spiringen UR","Spiringen (UR)","Spiringen UR","Uri","Uri","Uri",,FALSE,FALSE
 4,1219,,,,,,,,FALSE,"UR","Unterschächen","Unterschächen","Unterschächen","Unterschächen UR","Unterschächen (UR)","Unterschächen UR","Uri","Uri","Uri",,FALSE,FALSE
 4,1220,,,,,,,,FALSE,"UR","Wassen","Wassen","Wassen","Wassen UR","Wassen (UR)","Wassen UR","Uri","Uri","Uri",,FALSE,FALSE
-5,1301,33.973996608,1803,3504,47.158840631,5353,11351,5307,TRUE,"SZ","Einsiedeln","Einsiedeln","Einsiedeln","Einsiedeln SZ","Einsiedeln (SZ)","Einsiedeln SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1311,39.1966759,283,439,46.903225806,727,1550,722,TRUE,"SZ","Gersau","Gersau","Gersau","Gersau SZ","Gersau (SZ)","Gersau SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1321,,,,,,,,FALSE,"SZ","Feusisberg","Feusisberg","Feusisberg","Feusisberg SZ","Feusisberg (SZ)","Feusisberg SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1322,,,,,,,,FALSE,"SZ","Freienbach","Freienbach","Freienbach","Freienbach SZ","Freienbach (SZ)","Freienbach SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1323,,,,,,,,FALSE,"SZ","Wollerau","Wollerau","Wollerau","Wollerau SZ","Wollerau (SZ)","Wollerau SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1331,,,,,,,,FALSE,"SZ","Küssnacht SZ","Küssnacht (SZ)","Küssnacht SZ","Küssnacht SZ","Küssnacht (SZ)","Küssnacht SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1341,31.266968326,691,1519,46.728187919,2228,4768,2210,TRUE,"SZ","Altendorf","Altendorf","Altendorf","Altendorf SZ","Altendorf (SZ)","Altendorf SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1342,,,,,,,,FALSE,"SZ","Galgenen","Galgenen","Galgenen","Galgenen SZ","Galgenen (SZ)","Galgenen SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1343,24.637681159,17,52,47.333333333,71,150,69,TRUE,"SZ","Innerthal","Innerthal","Innerthal","Innerthal SZ","Innerthal (SZ)","Innerthal SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1344,,,,,,,,FALSE,"SZ","Lachen","Lachen","Lachen","Lachen SZ","Lachen (SZ)","Lachen SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1345,29.818956337,280,659,38.377281947,946,2465,939,TRUE,"SZ","Reichenburg","Reichenburg","Reichenburg","Reichenburg SZ","Reichenburg (SZ)","Reichenburg SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1346,,,,,,,,FALSE,"SZ","Schübelbach","Schübelbach","Schübelbach","Schübelbach SZ","Schübelbach (SZ)","Schübelbach SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1347,,,,,,,,FALSE,"SZ","Tuggen","Tuggen","Tuggen","Tuggen SZ","Tuggen (SZ)","Tuggen SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1348,27.835051546,81,210,36.683417085,292,796,291,TRUE,"SZ","Vorderthal","Vorderthal","Vorderthal","Vorderthal SZ","Vorderthal (SZ)","Vorderthal SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1349,31.640146879,517,1117,43.597883598,1648,3780,1634,TRUE,"SZ","Wangen SZ","Wangen (SZ)","Wangen SZ","Wangen SZ","Wangen (SZ)","Wangen SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1361,19.555555556,44,181,47.095435685,227,482,225,TRUE,"SZ","Alpthal","Alpthal","Alpthal","Alpthal SZ","Alpthal (SZ)","Alpthal SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1362,38.47742697,1304,2085,46.766237325,3413,7298,3389,TRUE,"SZ","Arth","Arth","Arth","Arth SZ","Arth (SZ)","Arth SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1363,28.888888889,78,192,43.548387097,270,620,270,TRUE,"SZ","Illgau","Illgau","Illgau","Illgau SZ","Illgau (SZ)","Illgau SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1364,41.73885146,1301,1816,50.998538724,3141,6159,3117,TRUE,"SZ","Ingenbohl","Ingenbohl","Ingenbohl","Ingenbohl SZ","Ingenbohl (SZ)","Ingenbohl SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1365,26.086956522,102,289,50.449293967,393,779,391,TRUE,"SZ","Lauerz","Lauerz","Lauerz","Lauerz SZ","Lauerz (SZ)","Lauerz SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1366,31.105398458,121,268,52.133333333,391,750,389,TRUE,"SZ","Morschach","Morschach","Morschach","Morschach SZ","Morschach (SZ)","Morschach SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1367,22.427440633,340,1176,57.718373494,1533,2656,1516,TRUE,"SZ","Muotathal","Muotathal","Muotathal","Muotathal SZ","Muotathal (SZ)","Muotathal SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1368,27.777777778,95,247,48.373408769,342,707,342,TRUE,"SZ","Oberiberg","Oberiberg","Oberiberg","Oberiberg SZ","Oberiberg (SZ)","Oberiberg SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1369,63.636363636,14,8,36.666666667,22,60,22,TRUE,"SZ","Riemenstalden","Riemenstalden","Riemenstalden","Riemenstalden SZ","Riemenstalden (SZ)","Riemenstalden SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1370,24.431818182,172,532,42.190305206,705,1671,704,TRUE,"SZ","Rothenthurm","Rothenthurm","Rothenthurm","Rothenthurm SZ","Rothenthurm (SZ)","Rothenthurm SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1371,29.892141757,194,455,47.169811321,650,1378,649,TRUE,"SZ","Sattel","Sattel","Sattel","Sattel SZ","Sattel (SZ)","Sattel SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1372,39.50905903,2028,3105,48.656015038,5177,10640,5133,TRUE,"SZ","Schwyz","Schwyz","Svitto","Schwyz SZ","Schwyz (SZ)","Svitto SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1373,,,,,,,,FALSE,"SZ","Steinen","Steinen","Steinen","Steinen SZ","Steinen (SZ)","Steinen SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1374,27.722772277,84,219,42.420027816,305,719,303,TRUE,"SZ","Steinerberg","Steinerberg","Steinerberg","Steinerberg SZ","Steinerberg (SZ)","Steinerberg SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
-5,1375,17.1875,143,689,46.09030837,837,1816,832,TRUE,"SZ","Unteriberg","Unteriberg","Unteriberg","Unteriberg SZ","Unteriberg (SZ)","Unteriberg SZ","Schwyz","Schwyz","Svitto",34.061994799,FALSE,FALSE
+5,1301,33.973996608,1803,3504,47.158840631,5353,11351,5307,TRUE,"SZ","Einsiedeln","Einsiedeln","Einsiedeln","Einsiedeln SZ","Einsiedeln (SZ)","Einsiedeln SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1311,39.1966759,283,439,46.903225806,727,1550,722,TRUE,"SZ","Gersau","Gersau","Gersau","Gersau SZ","Gersau (SZ)","Gersau SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1321,,,,,,,,FALSE,"SZ","Feusisberg","Feusisberg","Feusisberg","Feusisberg SZ","Feusisberg (SZ)","Feusisberg SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1322,,,,,,,,FALSE,"SZ","Freienbach","Freienbach","Freienbach","Freienbach SZ","Freienbach (SZ)","Freienbach SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1323,31.328616352,797,1747,53.025279735,2559,4826,2544,TRUE,"SZ","Wollerau","Wollerau","Wollerau","Wollerau SZ","Wollerau (SZ)","Wollerau SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1331,39.904284412,1751,2637,50.278061514,4430,8811,4388,TRUE,"SZ","Küssnacht SZ","Küssnacht (SZ)","Küssnacht SZ","Küssnacht SZ","Küssnacht (SZ)","Küssnacht SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1341,31.266968326,691,1519,46.728187919,2228,4768,2210,TRUE,"SZ","Altendorf","Altendorf","Altendorf","Altendorf SZ","Altendorf (SZ)","Altendorf SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1342,30.119634061,428,993,41.334488735,1431,3462,1421,TRUE,"SZ","Galgenen","Galgenen","Galgenen","Galgenen SZ","Galgenen (SZ)","Galgenen SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1343,24.637681159,17,52,47.333333333,71,150,69,TRUE,"SZ","Innerthal","Innerthal","Innerthal","Innerthal SZ","Innerthal (SZ)","Innerthal SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1344,35.001986492,881,1636,46.403075233,2535,5463,2517,TRUE,"SZ","Lachen","Lachen","Lachen","Lachen SZ","Lachen (SZ)","Lachen SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1345,29.818956337,280,659,38.377281947,946,2465,939,TRUE,"SZ","Reichenburg","Reichenburg","Reichenburg","Reichenburg SZ","Reichenburg (SZ)","Reichenburg SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1346,,,,,,,,FALSE,"SZ","Schübelbach","Schübelbach","Schübelbach","Schübelbach SZ","Schübelbach (SZ)","Schübelbach SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1347,27.926960258,260,671,40.739130435,937,2300,931,TRUE,"SZ","Tuggen","Tuggen","Tuggen","Tuggen SZ","Tuggen (SZ)","Tuggen SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1348,27.835051546,81,210,36.683417085,292,796,291,TRUE,"SZ","Vorderthal","Vorderthal","Vorderthal","Vorderthal SZ","Vorderthal (SZ)","Vorderthal SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1349,31.640146879,517,1117,43.597883598,1648,3780,1634,TRUE,"SZ","Wangen SZ","Wangen (SZ)","Wangen SZ","Wangen SZ","Wangen (SZ)","Wangen SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1361,19.555555556,44,181,47.095435685,227,482,225,TRUE,"SZ","Alpthal","Alpthal","Alpthal","Alpthal SZ","Alpthal (SZ)","Alpthal SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1362,38.47742697,1304,2085,46.766237325,3413,7298,3389,TRUE,"SZ","Arth","Arth","Arth","Arth SZ","Arth (SZ)","Arth SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1363,28.888888889,78,192,43.548387097,270,620,270,TRUE,"SZ","Illgau","Illgau","Illgau","Illgau SZ","Illgau (SZ)","Illgau SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1364,41.73885146,1301,1816,50.998538724,3141,6159,3117,TRUE,"SZ","Ingenbohl","Ingenbohl","Ingenbohl","Ingenbohl SZ","Ingenbohl (SZ)","Ingenbohl SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1365,26.086956522,102,289,50.449293967,393,779,391,TRUE,"SZ","Lauerz","Lauerz","Lauerz","Lauerz SZ","Lauerz (SZ)","Lauerz SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1366,31.105398458,121,268,52.133333333,391,750,389,TRUE,"SZ","Morschach","Morschach","Morschach","Morschach SZ","Morschach (SZ)","Morschach SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1367,22.427440633,340,1176,57.718373494,1533,2656,1516,TRUE,"SZ","Muotathal","Muotathal","Muotathal","Muotathal SZ","Muotathal (SZ)","Muotathal SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1368,27.777777778,95,247,48.373408769,342,707,342,TRUE,"SZ","Oberiberg","Oberiberg","Oberiberg","Oberiberg SZ","Oberiberg (SZ)","Oberiberg SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1369,63.636363636,14,8,36.666666667,22,60,22,TRUE,"SZ","Riemenstalden","Riemenstalden","Riemenstalden","Riemenstalden SZ","Riemenstalden (SZ)","Riemenstalden SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1370,24.431818182,172,532,42.190305206,705,1671,704,TRUE,"SZ","Rothenthurm","Rothenthurm","Rothenthurm","Rothenthurm SZ","Rothenthurm (SZ)","Rothenthurm SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1371,29.892141757,194,455,47.169811321,650,1378,649,TRUE,"SZ","Sattel","Sattel","Sattel","Sattel SZ","Sattel (SZ)","Sattel SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1372,39.50905903,2028,3105,48.656015038,5177,10640,5133,TRUE,"SZ","Schwyz","Schwyz","Svitto","Schwyz SZ","Schwyz (SZ)","Svitto SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1373,34.410339257,426,812,45.504385965,1245,2736,1238,TRUE,"SZ","Steinen","Steinen","Steinen","Steinen SZ","Steinen (SZ)","Steinen SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1374,27.722772277,84,219,42.420027816,305,719,303,TRUE,"SZ","Steinerberg","Steinerberg","Steinerberg","Steinerberg SZ","Steinerberg (SZ)","Steinerberg SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
+5,1375,17.1875,143,689,46.09030837,837,1816,832,TRUE,"SZ","Unteriberg","Unteriberg","Unteriberg","Unteriberg SZ","Unteriberg (SZ)","Unteriberg SZ","Schwyz","Schwyz","Svitto",34.306991541,FALSE,FALSE
 6,1401,,,,,,,,FALSE,"OW","Alpnach","Alpnach","Alpnach","Alpnach OW","Alpnach (OW)","Alpnach OW","Obwalden","Obwald","Obvaldo",36.770428016,FALSE,FALSE
 6,1402,,,,,,,,FALSE,"OW","Engelberg","Engelberg","Engelberg","Engelberg OW","Engelberg (OW)","Engelberg OW","Obwalden","Obwald","Obvaldo",36.770428016,FALSE,FALSE
 6,1403,37.979094077,436,712,43.426724138,1209,2784,1148,TRUE,"OW","Giswil","Giswil","Giswil","Giswil OW","Giswil (OW)","Giswil OW","Obwalden","Obwald","Obvaldo",36.770428016,FALSE,FALSE
@@ -892,92 +892,92 @@
 12,2701,55.694437881,23571,18751,47.780452153,43474,90987,42322,FALSE,"BS","Basel","Bâle","Basilea","Basel BS","Bâle (BS)","Basilea BS","Basel-Stadt","Bâle-Ville","Basilea Città",54.896039699,FALSE,FALSE
 12,2702,42.289719626,181,247,60.082872928,435,724,428,FALSE,"BS","Bettingen","Bettingen","Bettingen","Bettingen BS","Bettingen (BS)","Bettingen BS","Basel-Stadt","Bâle-Ville","Basilea Città",54.896039699,FALSE,FALSE
 12,2703,47.73960217,3432,3757,56.714582212,7378,13009,7189,FALSE,"BS","Riehen","Riehen","Riehen","Riehen BS","Riehen (BS)","Riehen BS","Basel-Stadt","Bâle-Ville","Basilea Città",54.896039699,FALSE,FALSE
-13,2761,42.610003761,1133,1526,40.758435354,2730,6698,2659,TRUE,"BL","Aesch BL","Aesch (BL)","Aesch BL","Aesch BL","Aesch (BL)","Aesch BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2762,,,,,,,,FALSE,"BL","Allschwil","Allschwil","Allschwil","Allschwil BL","Allschwil (BL)","Allschwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2763,,,,,,,,FALSE,"BL","Arlesheim","Arlesheim","Arlesheim","Arlesheim BL","Arlesheim (BL)","Arlesheim BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2764,45.342126958,550,663,49.563838224,1250,2522,1213,TRUE,"BL","Biel-Benken","Biel-Benken","Biel-Benken","Biel-Benken BL","Biel-Benken (BL)","Biel-Benken BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2765,46.862455102,2218,2515,50.184804928,4888,9740,4733,TRUE,"BL","Binningen","Binningen","Binningen","Binningen BL","Binningen (BL)","Binningen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2766,50.199203187,1134,1125,38.113509193,2384,6255,2259,TRUE,"BL","Birsfelden","Birsfelden","Birsfelden","Birsfelden BL","Birsfelden (BL)","Birsfelden BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2767,46.033254157,969,1136,50.893893661,2192,4307,2105,TRUE,"BL","Bottmingen","Bottmingen","Bottmingen","Bottmingen BL","Bottmingen (BL)","Bottmingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2768,45.758661888,766,908,44.848170257,1728,3853,1674,TRUE,"BL","Ettingen","Ettingen","Ettingen","Ettingen BL","Ettingen (BL)","Ettingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2769,46.736375158,1475,1681,42.989051576,3259,7581,3156,TRUE,"BL","Münchenstein","Münchenstein","Münchenstein","Münchenstein BL","Münchenstein (BL)","Münchenstein BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2770,,,,,,,,FALSE,"BL","Muttenz","Muttenz","Muttenz","Muttenz BL","Muttenz (BL)","Muttenz BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2771,,,,,,,,FALSE,"BL","Oberwil BL","Oberwil (BL)","Oberwil BL","Oberwil BL","Oberwil (BL)","Oberwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2772,40.069284065,347,519,52.529411765,893,1700,866,TRUE,"BL","Pfeffingen","Pfeffingen","Pfeffingen","Pfeffingen BL","Pfeffingen (BL)","Pfeffingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2773,40.633954155,2269,3315,46.492762844,5846,12574,5584,TRUE,"BL","Reinach BL","Reinach (BL)","Reinach BL","Reinach BL","Reinach (BL)","Reinach BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2774,46.946564885,246,278,49.04284412,538,1097,524,TRUE,"BL","Schönenbuch","Schönenbuch","Schönenbuch","Schönenbuch BL","Schönenbuch (BL)","Schönenbuch BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2775,46.273087071,1403,1629,45.112674035,3143,6967,3032,TRUE,"BL","Therwil","Therwil","Therwil","Therwil BL","Therwil (BL)","Therwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2781,27.307692308,71,189,48.269581056,265,549,260,TRUE,"BL","Blauen","Blauen","Blauen","Blauen BL","Blauen (BL)","Blauen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2782,34.942528736,152,283,34.87460815,445,1276,435,TRUE,"BL","Brislach","Brislach","Brislach","Brislach BL","Brislach (BL)","Brislach BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2783,20.689655172,18,69,42.718446602,88,206,87,TRUE,"BL","Burg im Leimental","Burg im Leimental","Burg im Leimental","Burg im Leimental BL","Burg im Leimental (BL)","Burg im Leimental BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2784,38.693467337,77,122,38.229755179,203,531,199,TRUE,"BL","Dittingen","Dittingen","Dittingen","Dittingen BL","Dittingen (BL)","Dittingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2785,34.068627451,139,269,41.674687199,433,1039,408,TRUE,"BL","Duggingen","Duggingen","Duggingen","Duggingen BL","Duggingen (BL)","Duggingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2786,32.75862069,152,312,40.778341794,482,1182,464,TRUE,"BL","Grellingen","Grellingen","Grellingen","Grellingen BL","Grellingen (BL)","Grellingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2787,41.349605169,576,817,38.459459459,1423,3700,1393,TRUE,"BL","Laufen","Laufon","Laufen","Laufen BL","Laufon (BL)","Laufen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2788,27.34375,105,279,46.475507766,389,837,384,TRUE,"BL","Liesberg","Liesberg","Liesberg","Liesberg BL","Liesberg (BL)","Liesberg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2789,,,,,,,,FALSE,"BL","Nenzlingen","Nenzlingen","Nenzlingen","Nenzlingen BL","Nenzlingen (BL)","Nenzlingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2790,25.274725275,23,68,38.723404255,91,235,91,TRUE,"BL","Roggenburg","Roggenburg","Roggenburg","Roggenburg BL","Roggenburg (BL)","Roggenburg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2791,,,,,,,,FALSE,"BL","Röschenz","Röschenz","Röschenz","Röschenz BL","Röschenz (BL)","Röschenz BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2792,27.520435967,101,266,34.314627415,373,1087,367,TRUE,"BL","Wahlen","Wahlen","Wahlen","Wahlen BL","Wahlen (BL)","Wahlen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2793,,,,,,,,FALSE,"BL","Zwingen","Zwingen","Zwingen","Zwingen BL","Zwingen (BL)","Zwingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2821,34.924078091,161,300,38.6035313,481,1246,461,TRUE,"BL","Arisdorf","Arisdorf","Arisdorf","Arisdorf BL","Arisdorf (BL)","Arisdorf BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2822,37.209302326,128,216,50.509461426,347,687,344,TRUE,"BL","Augst","Augst","Augst","Augst BL","Augst (BL)","Augst BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2823,,,,,,,,FALSE,"BL","Bubendorf","Bubendorf","Bubendorf","Bubendorf BL","Bubendorf (BL)","Bubendorf BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2824,,,,,,,,FALSE,"BL","Frenkendorf","Frenkendorf","Frenkendorf","Frenkendorf BL","Frenkendorf (BL)","Frenkendorf BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2825,37.933954276,448,733,44.332129964,1228,2770,1181,TRUE,"BL","Füllinsdorf","Füllinsdorf","Füllinsdorf","Füllinsdorf BL","Füllinsdorf (BL)","Füllinsdorf BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2826,30.769230769,72,162,34.893617021,246,705,234,TRUE,"BL","Giebenach","Giebenach","Giebenach","Giebenach BL","Giebenach (BL)","Giebenach BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2827,40.476190476,51,75,48.846153846,127,260,126,TRUE,"BL","Hersberg","Hersberg","Hersberg","Hersberg BL","Hersberg (BL)","Hersberg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2828,44.996293551,607,742,40.931586608,1406,3435,1349,TRUE,"BL","Lausen","Lausen","Lausen","Lausen BL","Lausen (BL)","Lausen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2829,,,,,,,,FALSE,"BL","Liestal","Liestal","Liestal","Liestal BL","Liestal (BL)","Liestal BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2830,,,,,,,,FALSE,"BL","Lupsingen","Lupsingen","Lupsingen","Lupsingen BL","Lupsingen (BL)","Lupsingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2831,,,,,,,,FALSE,"BL","Pratteln","Pratteln","Pratteln","Pratteln BL","Pratteln (BL)","Pratteln BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2832,42.687747036,108,145,47.463768116,262,552,253,TRUE,"BL","Ramlinsburg","Ramlinsburg","Ramlinsburg","Ramlinsburg BL","Ramlinsburg (BL)","Ramlinsburg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2833,43.542435424,236,306,54.170755643,552,1019,542,TRUE,"BL","Seltisberg","Seltisberg","Seltisberg","Seltisberg BL","Seltisberg (BL)","Seltisberg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2834,43.531468531,249,323,49.490662139,583,1178,572,TRUE,"BL","Ziefen","Ziefen","Ziefen","Ziefen BL","Ziefen (BL)","Ziefen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2841,41.520467836,71,100,41.911764706,171,408,171,TRUE,"BL","Anwil","Anwil","Anwil","Anwil BL","Anwil (BL)","Anwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2842,42.338709677,105,143,43.402777778,250,576,248,TRUE,"BL","Böckten","Böckten","Böckten","Böckten BL","Böckten (BL)","Böckten BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2843,43.891402715,97,124,45.180722892,225,498,221,TRUE,"BL","Buckten","Buckten","Buckten","Buckten BL","Buckten (BL)","Buckten BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2844,33.554817276,101,200,37.985436893,313,824,301,TRUE,"BL","Buus","Buus","Buus","Buus BL","Buus (BL)","Buus BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2845,27.317073171,56,149,40.462427746,210,519,205,TRUE,"BL","Diepflingen","Diepflingen","Diepflingen","Diepflingen BL","Diepflingen (BL)","Diepflingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2846,45.284002084,869,1050,46.803977273,1977,4224,1919,TRUE,"BL","Gelterkinden","Gelterkinden","Gelterkinden","Gelterkinden BL","Gelterkinden (BL)","Gelterkinden BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2847,30.769230769,32,72,52.475247525,106,202,104,TRUE,"BL","Häfelfingen","Häfelfingen","Häfelfingen","Häfelfingen BL","Häfelfingen (BL)","Häfelfingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2848,33.695652174,31,61,42.465753425,93,219,92,TRUE,"BL","Hemmiken","Hemmiken","Hemmiken","Hemmiken BL","Hemmiken (BL)","Hemmiken BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2849,,,,,,,,FALSE,"BL","Itingen","Itingen","Itingen","Itingen BL","Itingen (BL)","Itingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2850,34.078212291,61,118,45.098039216,184,408,179,TRUE,"BL","Känerkinden","Känerkinden","Känerkinden","Känerkinden BL","Känerkinden (BL)","Känerkinden BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2851,54.411764706,37,31,59.663865546,71,119,68,TRUE,"BL","Kilchberg BL","Kilchberg (BL)","Kilchberg BL","Kilchberg BL","Kilchberg (BL)","Kilchberg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2852,37.5,168,280,48.117154812,460,956,448,TRUE,"BL","Läufelfingen","Läufelfingen","Läufelfingen","Läufelfingen BL","Läufelfingen (BL)","Läufelfingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2853,44.728434505,140,173,46.504992867,326,701,313,TRUE,"BL","Maisprach","Maisprach","Maisprach","Maisprach BL","Maisprach (BL)","Maisprach BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2854,42.696629213,38,51,43.842364532,89,203,89,TRUE,"BL","Nusshof","Nusshof","Nusshof","Nusshof BL","Nusshof (BL)","Nusshof BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2855,39.690721649,77,117,53.191489362,200,376,194,TRUE,"BL","Oltingen","Oltingen","Oltingen","Oltingen BL","Oltingen (BL)","Oltingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2856,36.09375,231,409,38.580799046,647,1677,640,TRUE,"BL","Ormalingen","Ormalingen","Ormalingen","Ormalingen BL","Ormalingen (BL)","Ormalingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2857,42.288557214,85,116,44.638949672,204,457,201,TRUE,"BL","Rickenbach BL","Rickenbach (BL)","Rickenbach BL","Rickenbach BL","Rickenbach (BL)","Rickenbach BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2858,33.333333333,71,142,36.717428088,217,591,213,TRUE,"BL","Rothenfluh","Rothenfluh","Rothenfluh","Rothenfluh BL","Rothenfluh (BL)","Rothenfluh BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2859,32.592592593,44,91,49.290780142,139,282,135,TRUE,"BL","Rümlingen","Rümlingen","Rümlingen","Rümlingen BL","Rümlingen (BL)","Rümlingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2860,45.214521452,137,166,49.206349206,310,630,303,TRUE,"BL","Rünenberg","Rünenberg","Rünenberg","Rünenberg BL","Rünenberg (BL)","Rünenberg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2861,49.355608592,1034,1061,44.888981986,2143,4774,2095,TRUE,"BL","Sissach","Sissach","Sissach","Sissach BL","Sissach (BL)","Sissach BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2862,35.978835979,68,121,39.501039501,190,481,189,TRUE,"BL","Tecknau","Tecknau","Tecknau","Tecknau BL","Tecknau (BL)","Tecknau BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2863,52.346570397,145,132,40.883190883,287,702,277,TRUE,"BL","Tenniken","Tenniken","Tenniken","Tenniken BL","Tenniken (BL)","Tenniken BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2864,38.082901554,147,239,42.229367631,394,933,386,TRUE,"BL","Thürnen","Thürnen","Thürnen","Thürnen BL","Thürnen (BL)","Thürnen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2865,42.156862745,129,177,56.305506217,317,563,306,TRUE,"BL","Wenslingen","Wenslingen","Wenslingen","Wenslingen BL","Wenslingen (BL)","Wenslingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2866,33.189655172,77,155,47.484909457,236,497,232,TRUE,"BL","Wintersingen","Wintersingen","Wintersingen","Wintersingen BL","Wintersingen (BL)","Wintersingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2867,40.789473684,62,90,45.321637427,155,342,152,TRUE,"BL","Wittinsburg","Wittinsburg","Wittinsburg","Wittinsburg BL","Wittinsburg (BL)","Wittinsburg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2868,41.142857143,72,103,45.547073791,179,393,175,TRUE,"BL","Zeglingen","Zeglingen","Zeglingen","Zeglingen BL","Zeglingen (BL)","Zeglingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2869,,,,,,,,FALSE,"BL","Zunzgen","Zunzgen","Zunzgen","Zunzgen BL","Zunzgen (BL)","Zunzgen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2881,40.512820513,79,116,45.205479452,198,438,195,TRUE,"BL","Arboldswil","Arboldswil","Arboldswil","Arboldswil BL","Arboldswil (BL)","Arboldswil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2882,36.625514403,89,154,50.924024641,248,487,243,TRUE,"BL","Bennwil","Bennwil","Bennwil","Bennwil BL","Bennwil (BL)","Bennwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2883,22.325581395,48,167,37.285223368,217,582,215,TRUE,"BL","Bretzwil","Bretzwil","Bretzwil","Bretzwil BL","Bretzwil (BL)","Bretzwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2884,30.797101449,170,382,46.605960265,563,1208,552,TRUE,"BL","Diegten","Diegten","Diegten","Diegten BL","Diegten (BL)","Diegten BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2885,35.185185185,57,105,40.648379052,163,401,162,TRUE,"BL","Eptingen","Eptingen","Eptingen","Eptingen BL","Eptingen (BL)","Eptingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2886,43.002915452,295,391,41.146131805,718,1745,686,TRUE,"BL","Hölstein","Hölstein","Hölstein","Hölstein BL","Hölstein (BL)","Hölstein BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2887,35.838150289,62,111,43.82566586,181,413,173,TRUE,"BL","Lampenberg","Lampenberg","Lampenberg","Lampenberg BL","Lampenberg (BL)","Lampenberg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2888,35.57312253,90,163,36.605890603,261,713,253,TRUE,"BL","Langenbruck","Langenbruck","Langenbruck","Langenbruck BL","Langenbruck (BL)","Langenbruck BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2889,42.857142857,45,60,43.650793651,110,252,105,TRUE,"BL","Lauwil","Lauwil","Lauwil","Lauwil BL","Lauwil (BL)","Lauwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2890,25,15,45,50.41322314,61,121,60,TRUE,"BL","Liedertswil","Liedertswil","Liedertswil","Liedertswil BL","Liedertswil (BL)","Liedertswil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2891,38.082901554,147,239,34.307824592,399,1163,386,TRUE,"BL","Niederdorf","Niederdorf","Niederdorf","Niederdorf BL","Niederdorf (BL)","Niederdorf BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2892,38.797814208,213,336,35.624211854,565,1586,549,TRUE,"BL","Oberdorf BL","Oberdorf (BL)","Oberdorf BL","Oberdorf BL","Oberdorf (BL)","Oberdorf BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2893,39.821029083,178,269,39.204064352,463,1181,447,TRUE,"BL","Reigoldswil","Reigoldswil","Reigoldswil","Reigoldswil BL","Reigoldswil (BL)","Reigoldswil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2894,37.908496732,58,95,45.427728614,154,339,153,TRUE,"BL","Titterten","Titterten","Titterten","Titterten BL","Titterten (BL)","Titterten BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
-13,2895,36.776859504,89,153,33.844011142,243,718,242,TRUE,"BL","Waldenburg","Waldenburg","Waldenburg","Waldenburg BL","Waldenburg (BL)","Waldenburg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.559337914,FALSE,FALSE
+13,2761,42.610003761,1133,1526,40.758435354,2730,6698,2659,TRUE,"BL","Aesch BL","Aesch (BL)","Aesch BL","Aesch BL","Aesch (BL)","Aesch BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2762,,,,,,,,FALSE,"BL","Allschwil","Allschwil","Allschwil","Allschwil BL","Allschwil (BL)","Allschwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2763,46.887966805,1356,1536,48.126482213,3044,6325,2892,TRUE,"BL","Arlesheim","Arlesheim","Arlesheim","Arlesheim BL","Arlesheim (BL)","Arlesheim BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2764,45.342126958,550,663,49.563838224,1250,2522,1213,TRUE,"BL","Biel-Benken","Biel-Benken","Biel-Benken","Biel-Benken BL","Biel-Benken (BL)","Biel-Benken BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2765,46.862455102,2218,2515,50.184804928,4888,9740,4733,TRUE,"BL","Binningen","Binningen","Binningen","Binningen BL","Binningen (BL)","Binningen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2766,50.199203187,1134,1125,38.113509193,2384,6255,2259,TRUE,"BL","Birsfelden","Birsfelden","Birsfelden","Birsfelden BL","Birsfelden (BL)","Birsfelden BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2767,46.033254157,969,1136,50.893893661,2192,4307,2105,TRUE,"BL","Bottmingen","Bottmingen","Bottmingen","Bottmingen BL","Bottmingen (BL)","Bottmingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2768,45.758661888,766,908,44.848170257,1728,3853,1674,TRUE,"BL","Ettingen","Ettingen","Ettingen","Ettingen BL","Ettingen (BL)","Ettingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2769,46.736375158,1475,1681,42.989051576,3259,7581,3156,TRUE,"BL","Münchenstein","Münchenstein","Münchenstein","Münchenstein BL","Münchenstein (BL)","Münchenstein BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2770,,,,,,,,FALSE,"BL","Muttenz","Muttenz","Muttenz","Muttenz BL","Muttenz (BL)","Muttenz BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2771,,,,,,,,FALSE,"BL","Oberwil BL","Oberwil (BL)","Oberwil BL","Oberwil BL","Oberwil (BL)","Oberwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2772,40.069284065,347,519,52.529411765,893,1700,866,TRUE,"BL","Pfeffingen","Pfeffingen","Pfeffingen","Pfeffingen BL","Pfeffingen (BL)","Pfeffingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2773,40.633954155,2269,3315,46.492762844,5846,12574,5584,TRUE,"BL","Reinach BL","Reinach (BL)","Reinach BL","Reinach BL","Reinach (BL)","Reinach BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2774,46.946564885,246,278,49.04284412,538,1097,524,TRUE,"BL","Schönenbuch","Schönenbuch","Schönenbuch","Schönenbuch BL","Schönenbuch (BL)","Schönenbuch BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2775,46.273087071,1403,1629,45.112674035,3143,6967,3032,TRUE,"BL","Therwil","Therwil","Therwil","Therwil BL","Therwil (BL)","Therwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2781,27.307692308,71,189,48.269581056,265,549,260,TRUE,"BL","Blauen","Blauen","Blauen","Blauen BL","Blauen (BL)","Blauen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2782,34.942528736,152,283,34.87460815,445,1276,435,TRUE,"BL","Brislach","Brislach","Brislach","Brislach BL","Brislach (BL)","Brislach BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2783,20.689655172,18,69,42.718446602,88,206,87,TRUE,"BL","Burg im Leimental","Burg im Leimental","Burg im Leimental","Burg im Leimental BL","Burg im Leimental (BL)","Burg im Leimental BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2784,38.693467337,77,122,38.229755179,203,531,199,TRUE,"BL","Dittingen","Dittingen","Dittingen","Dittingen BL","Dittingen (BL)","Dittingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2785,34.068627451,139,269,41.674687199,433,1039,408,TRUE,"BL","Duggingen","Duggingen","Duggingen","Duggingen BL","Duggingen (BL)","Duggingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2786,32.75862069,152,312,40.778341794,482,1182,464,TRUE,"BL","Grellingen","Grellingen","Grellingen","Grellingen BL","Grellingen (BL)","Grellingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2787,41.349605169,576,817,38.459459459,1423,3700,1393,TRUE,"BL","Laufen","Laufon","Laufen","Laufen BL","Laufon (BL)","Laufen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2788,27.34375,105,279,46.475507766,389,837,384,TRUE,"BL","Liesberg","Liesberg","Liesberg","Liesberg BL","Liesberg (BL)","Liesberg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2789,37.419354839,58,97,47.633136095,161,338,155,TRUE,"BL","Nenzlingen","Nenzlingen","Nenzlingen","Nenzlingen BL","Nenzlingen (BL)","Nenzlingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2790,25.274725275,23,68,38.723404255,91,235,91,TRUE,"BL","Roggenburg","Roggenburg","Roggenburg","Roggenburg BL","Roggenburg (BL)","Roggenburg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2791,33.736762481,223,438,48.569384835,679,1398,661,TRUE,"BL","Röschenz","Röschenz","Röschenz","Röschenz BL","Röschenz (BL)","Röschenz BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2792,27.520435967,101,266,34.314627415,373,1087,367,TRUE,"BL","Wahlen","Wahlen","Wahlen","Wahlen BL","Wahlen (BL)","Wahlen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2793,34.205607477,183,352,34.05842138,548,1609,535,TRUE,"BL","Zwingen","Zwingen","Zwingen","Zwingen BL","Zwingen (BL)","Zwingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2821,34.924078091,161,300,38.6035313,481,1246,461,TRUE,"BL","Arisdorf","Arisdorf","Arisdorf","Arisdorf BL","Arisdorf (BL)","Arisdorf BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2822,37.209302326,128,216,50.509461426,347,687,344,TRUE,"BL","Augst","Augst","Augst","Augst BL","Augst (BL)","Augst BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2823,,,,,,,,FALSE,"BL","Bubendorf","Bubendorf","Bubendorf","Bubendorf BL","Bubendorf (BL)","Bubendorf BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2824,44.146685472,626,792,39.863013699,1455,3650,1418,TRUE,"BL","Frenkendorf","Frenkendorf","Frenkendorf","Frenkendorf BL","Frenkendorf (BL)","Frenkendorf BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2825,37.933954276,448,733,44.332129964,1228,2770,1181,TRUE,"BL","Füllinsdorf","Füllinsdorf","Füllinsdorf","Füllinsdorf BL","Füllinsdorf (BL)","Füllinsdorf BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2826,30.769230769,72,162,34.893617021,246,705,234,TRUE,"BL","Giebenach","Giebenach","Giebenach","Giebenach BL","Giebenach (BL)","Giebenach BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2827,40.476190476,51,75,48.846153846,127,260,126,TRUE,"BL","Hersberg","Hersberg","Hersberg","Hersberg BL","Hersberg (BL)","Hersberg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2828,44.996293551,607,742,40.931586608,1406,3435,1349,TRUE,"BL","Lausen","Lausen","Lausen","Lausen BL","Lausen (BL)","Lausen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2829,,,,,,,,FALSE,"BL","Liestal","Liestal","Liestal","Liestal BL","Liestal (BL)","Liestal BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2830,,,,,,,,FALSE,"BL","Lupsingen","Lupsingen","Lupsingen","Lupsingen BL","Lupsingen (BL)","Lupsingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2831,,,,,,,,FALSE,"BL","Pratteln","Pratteln","Pratteln","Pratteln BL","Pratteln (BL)","Pratteln BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2832,42.687747036,108,145,47.463768116,262,552,253,TRUE,"BL","Ramlinsburg","Ramlinsburg","Ramlinsburg","Ramlinsburg BL","Ramlinsburg (BL)","Ramlinsburg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2833,43.542435424,236,306,54.170755643,552,1019,542,TRUE,"BL","Seltisberg","Seltisberg","Seltisberg","Seltisberg BL","Seltisberg (BL)","Seltisberg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2834,43.531468531,249,323,49.490662139,583,1178,572,TRUE,"BL","Ziefen","Ziefen","Ziefen","Ziefen BL","Ziefen (BL)","Ziefen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2841,41.520467836,71,100,41.911764706,171,408,171,TRUE,"BL","Anwil","Anwil","Anwil","Anwil BL","Anwil (BL)","Anwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2842,42.338709677,105,143,43.402777778,250,576,248,TRUE,"BL","Böckten","Böckten","Böckten","Böckten BL","Böckten (BL)","Böckten BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2843,43.891402715,97,124,45.180722892,225,498,221,TRUE,"BL","Buckten","Buckten","Buckten","Buckten BL","Buckten (BL)","Buckten BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2844,33.554817276,101,200,37.985436893,313,824,301,TRUE,"BL","Buus","Buus","Buus","Buus BL","Buus (BL)","Buus BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2845,27.317073171,56,149,40.462427746,210,519,205,TRUE,"BL","Diepflingen","Diepflingen","Diepflingen","Diepflingen BL","Diepflingen (BL)","Diepflingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2846,45.284002084,869,1050,46.803977273,1977,4224,1919,TRUE,"BL","Gelterkinden","Gelterkinden","Gelterkinden","Gelterkinden BL","Gelterkinden (BL)","Gelterkinden BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2847,30.769230769,32,72,52.475247525,106,202,104,TRUE,"BL","Häfelfingen","Häfelfingen","Häfelfingen","Häfelfingen BL","Häfelfingen (BL)","Häfelfingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2848,33.695652174,31,61,42.465753425,93,219,92,TRUE,"BL","Hemmiken","Hemmiken","Hemmiken","Hemmiken BL","Hemmiken (BL)","Hemmiken BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2849,,,,,,,,FALSE,"BL","Itingen","Itingen","Itingen","Itingen BL","Itingen (BL)","Itingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2850,34.078212291,61,118,45.098039216,184,408,179,TRUE,"BL","Känerkinden","Känerkinden","Känerkinden","Känerkinden BL","Känerkinden (BL)","Känerkinden BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2851,54.411764706,37,31,59.663865546,71,119,68,TRUE,"BL","Kilchberg BL","Kilchberg (BL)","Kilchberg BL","Kilchberg BL","Kilchberg (BL)","Kilchberg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2852,37.5,168,280,48.117154812,460,956,448,TRUE,"BL","Läufelfingen","Läufelfingen","Läufelfingen","Läufelfingen BL","Läufelfingen (BL)","Läufelfingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2853,44.728434505,140,173,46.504992867,326,701,313,TRUE,"BL","Maisprach","Maisprach","Maisprach","Maisprach BL","Maisprach (BL)","Maisprach BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2854,42.696629213,38,51,43.842364532,89,203,89,TRUE,"BL","Nusshof","Nusshof","Nusshof","Nusshof BL","Nusshof (BL)","Nusshof BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2855,39.690721649,77,117,53.191489362,200,376,194,TRUE,"BL","Oltingen","Oltingen","Oltingen","Oltingen BL","Oltingen (BL)","Oltingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2856,36.09375,231,409,38.580799046,647,1677,640,TRUE,"BL","Ormalingen","Ormalingen","Ormalingen","Ormalingen BL","Ormalingen (BL)","Ormalingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2857,42.288557214,85,116,44.638949672,204,457,201,TRUE,"BL","Rickenbach BL","Rickenbach (BL)","Rickenbach BL","Rickenbach BL","Rickenbach (BL)","Rickenbach BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2858,33.333333333,71,142,36.717428088,217,591,213,TRUE,"BL","Rothenfluh","Rothenfluh","Rothenfluh","Rothenfluh BL","Rothenfluh (BL)","Rothenfluh BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2859,32.592592593,44,91,49.290780142,139,282,135,TRUE,"BL","Rümlingen","Rümlingen","Rümlingen","Rümlingen BL","Rümlingen (BL)","Rümlingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2860,45.214521452,137,166,49.206349206,310,630,303,TRUE,"BL","Rünenberg","Rünenberg","Rünenberg","Rünenberg BL","Rünenberg (BL)","Rünenberg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2861,49.355608592,1034,1061,44.888981986,2143,4774,2095,TRUE,"BL","Sissach","Sissach","Sissach","Sissach BL","Sissach (BL)","Sissach BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2862,35.978835979,68,121,39.501039501,190,481,189,TRUE,"BL","Tecknau","Tecknau","Tecknau","Tecknau BL","Tecknau (BL)","Tecknau BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2863,52.346570397,145,132,40.883190883,287,702,277,TRUE,"BL","Tenniken","Tenniken","Tenniken","Tenniken BL","Tenniken (BL)","Tenniken BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2864,38.082901554,147,239,42.229367631,394,933,386,TRUE,"BL","Thürnen","Thürnen","Thürnen","Thürnen BL","Thürnen (BL)","Thürnen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2865,42.156862745,129,177,56.305506217,317,563,306,TRUE,"BL","Wenslingen","Wenslingen","Wenslingen","Wenslingen BL","Wenslingen (BL)","Wenslingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2866,33.189655172,77,155,47.484909457,236,497,232,TRUE,"BL","Wintersingen","Wintersingen","Wintersingen","Wintersingen BL","Wintersingen (BL)","Wintersingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2867,40.789473684,62,90,45.321637427,155,342,152,TRUE,"BL","Wittinsburg","Wittinsburg","Wittinsburg","Wittinsburg BL","Wittinsburg (BL)","Wittinsburg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2868,41.142857143,72,103,45.547073791,179,393,175,TRUE,"BL","Zeglingen","Zeglingen","Zeglingen","Zeglingen BL","Zeglingen (BL)","Zeglingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2869,36.195508587,274,483,42.240437158,773,1830,757,TRUE,"BL","Zunzgen","Zunzgen","Zunzgen","Zunzgen BL","Zunzgen (BL)","Zunzgen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2881,40.512820513,79,116,45.205479452,198,438,195,TRUE,"BL","Arboldswil","Arboldswil","Arboldswil","Arboldswil BL","Arboldswil (BL)","Arboldswil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2882,36.625514403,89,154,50.924024641,248,487,243,TRUE,"BL","Bennwil","Bennwil","Bennwil","Bennwil BL","Bennwil (BL)","Bennwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2883,22.325581395,48,167,37.285223368,217,582,215,TRUE,"BL","Bretzwil","Bretzwil","Bretzwil","Bretzwil BL","Bretzwil (BL)","Bretzwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2884,30.797101449,170,382,46.605960265,563,1208,552,TRUE,"BL","Diegten","Diegten","Diegten","Diegten BL","Diegten (BL)","Diegten BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2885,35.185185185,57,105,40.648379052,163,401,162,TRUE,"BL","Eptingen","Eptingen","Eptingen","Eptingen BL","Eptingen (BL)","Eptingen BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2886,43.002915452,295,391,41.146131805,718,1745,686,TRUE,"BL","Hölstein","Hölstein","Hölstein","Hölstein BL","Hölstein (BL)","Hölstein BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2887,35.838150289,62,111,43.82566586,181,413,173,TRUE,"BL","Lampenberg","Lampenberg","Lampenberg","Lampenberg BL","Lampenberg (BL)","Lampenberg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2888,35.57312253,90,163,36.605890603,261,713,253,TRUE,"BL","Langenbruck","Langenbruck","Langenbruck","Langenbruck BL","Langenbruck (BL)","Langenbruck BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2889,42.857142857,45,60,43.650793651,110,252,105,TRUE,"BL","Lauwil","Lauwil","Lauwil","Lauwil BL","Lauwil (BL)","Lauwil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2890,25,15,45,50.41322314,61,121,60,TRUE,"BL","Liedertswil","Liedertswil","Liedertswil","Liedertswil BL","Liedertswil (BL)","Liedertswil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2891,38.082901554,147,239,34.307824592,399,1163,386,TRUE,"BL","Niederdorf","Niederdorf","Niederdorf","Niederdorf BL","Niederdorf (BL)","Niederdorf BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2892,38.797814208,213,336,35.624211854,565,1586,549,TRUE,"BL","Oberdorf BL","Oberdorf (BL)","Oberdorf BL","Oberdorf BL","Oberdorf (BL)","Oberdorf BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2893,39.821029083,178,269,39.204064352,463,1181,447,TRUE,"BL","Reigoldswil","Reigoldswil","Reigoldswil","Reigoldswil BL","Reigoldswil (BL)","Reigoldswil BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2894,37.908496732,58,95,45.427728614,154,339,153,TRUE,"BL","Titterten","Titterten","Titterten","Titterten BL","Titterten (BL)","Titterten BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
+13,2895,36.776859504,89,153,33.844011142,243,718,242,TRUE,"BL","Waldenburg","Waldenburg","Waldenburg","Waldenburg BL","Waldenburg (BL)","Waldenburg BL","Basel-Landschaft","Bâle-Campagne","Basilea Campagna",42.539462272,FALSE,FALSE
 14,2901,,,,,,,,FALSE,"SH","Gächlingen","Gächlingen","Gächlingen","Gächlingen SH","Gächlingen (SH)","Gächlingen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2903,,,,,,,,FALSE,"SH","Löhningen","Löhningen","Löhningen","Löhningen SH","Löhningen (SH)","Löhningen SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
 14,2904,,,,,,,,FALSE,"SH","Neunkirch","Neunkirch","Neunkirch","Neunkirch SH","Neunkirch (SH)","Neunkirch SH","Schaffhausen","Schaffhouse","Sciaffusa",,FALSE,FALSE
@@ -2090,56 +2090,56 @@
 25,6643,,,,,,,,FALSE,"GE","Vernier","Vernier","Vernier","Vernier GE","Vernier (GE)","Vernier GE","Genf","Genève","Ginevra",,FALSE,FALSE
 25,6644,,,,,,,,FALSE,"GE","Versoix","Versoix","Versoix","Versoix GE","Versoix (GE)","Versoix GE","Genf","Genève","Ginevra",,FALSE,FALSE
 25,6645,,,,,,,,FALSE,"GE","Veyrier","Veyrier","Veyrier","Veyrier GE","Veyrier (GE)","Veyrier GE","Genf","Genève","Ginevra",,FALSE,FALSE
-26,6702,,,,,,,,FALSE,"JU","Boécourt","Boécourt","Boécourt","Boécourt JU","Boécourt (JU)","Boécourt JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6703,,,,,,,,FALSE,"JU","Bourrignon","Bourrignon","Bourrignon","Bourrignon JU","Bourrignon (JU)","Bourrignon JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6704,,,,,,,,FALSE,"JU","Châtillon JU","Châtillon (JU)","Châtillon JU","Châtillon JU","Châtillon (JU)","Châtillon JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6706,,,,,,,,FALSE,"JU","Courchapoix","Courchapoix","Courchapoix","Courchapoix JU","Courchapoix (JU)","Courchapoix JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6708,,,,,,,,FALSE,"JU","Courrendlin","Courrendlin","Courrendlin","Courrendlin JU","Courrendlin (JU)","Courrendlin JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6709,,,,,,,,FALSE,"JU","Courroux","Courroux","Courroux","Courroux JU","Courroux (JU)","Courroux JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6710,,,,,,,,FALSE,"JU","Courtételle","Courtételle","Courtételle","Courtételle JU","Courtételle (JU)","Courtételle JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6711,,,,,,,,FALSE,"JU","Delsberg","Delémont","Delsberg","Delsberg JU","Delémont (JU)","Delsberg JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6712,,,,,,,,FALSE,"JU","Develier","Develier","Develier","Develier JU","Develier (JU)","Develier JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6713,,,,,,,,FALSE,"JU","Ederswiler","Ederswiler","Ederswiler","Ederswiler JU","Ederswiler (JU)","Ederswiler JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6715,,,,,,,,FALSE,"JU","Mervelier","Mervelier","Mervelier","Mervelier JU","Mervelier (JU)","Mervelier JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6716,,,,,,,,FALSE,"JU","Mettembert","Mettembert","Mettembert","Mettembert JU","Mettembert (JU)","Mettembert JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6718,,,,,,,,FALSE,"JU","Movelier","Movelier","Movelier","Movelier JU","Movelier (JU)","Movelier JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6719,,,,,,,,FALSE,"JU","Pleigne","Pleigne","Pleigne","Pleigne JU","Pleigne (JU)","Pleigne JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6721,,,,,,,,FALSE,"JU","Rossemaison","Rossemaison","Rossemaison","Rossemaison JU","Rossemaison (JU)","Rossemaison JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6722,,,,,,,,FALSE,"JU","Saulcy","Saulcy","Saulcy","Saulcy JU","Saulcy (JU)","Saulcy JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6724,,,,,,,,FALSE,"JU","Soyhières","Soyhières","Soyhières","Soyhières JU","Soyhières (JU)","Soyhières JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6729,,,,,,,,FALSE,"JU","Haute-Sorne","Haute-Sorne","Haute-Sorne","Haute-Sorne JU","Haute-Sorne (JU)","Haute-Sorne JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6730,,,,,,,,FALSE,"JU","Val Terbi","Val Terbi","Val Terbi","Val Terbi JU","Val Terbi (JU)","Val Terbi JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6741,,,,,,,,FALSE,"JU","Le Bémont JU","Le Bémont (JU)","Le Bémont JU","Le Bémont JU","Le Bémont (JU)","Le Bémont JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6742,,,,,,,,FALSE,"JU","Les Bois","Les Bois","Les Bois","Les Bois JU","Les Bois (JU)","Les Bois JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6743,,,,,,,,FALSE,"JU","Les Breuleux","Les Breuleux","Les Breuleux","Les Breuleux JU","Les Breuleux (JU)","Les Breuleux JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6744,,,,,,,,FALSE,"JU","La Chaux-des-Breuleux","La Chaux-des-Breuleux","La Chaux-des-Breuleux","La Chaux-des-Breuleux JU","La Chaux-des-Breuleux (JU)","La Chaux-des-Breuleux JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6745,,,,,,,,FALSE,"JU","Les Enfers","Les Enfers","Les Enfers","Les Enfers JU","Les Enfers (JU)","Les Enfers JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6748,,,,,,,,FALSE,"JU","Les Genevez JU","Les Genevez (JU)","Les Genevez JU","Les Genevez JU","Les Genevez (JU)","Les Genevez JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6750,,,,,,,,FALSE,"JU","Lajoux JU","Lajoux (JU)","Lajoux JU","Lajoux JU","Lajoux (JU)","Lajoux JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6751,,,,,,,,FALSE,"JU","Montfaucon","Montfaucon","Montfaucon","Montfaucon JU","Montfaucon (JU)","Montfaucon JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6753,,,,,,,,FALSE,"JU","Muriaux","Muriaux","Muriaux","Muriaux JU","Muriaux (JU)","Muriaux JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6754,,,,,,,,FALSE,"JU","Le Noirmont","Le Noirmont","Le Noirmont","Le Noirmont JU","Le Noirmont (JU)","Le Noirmont JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6757,,,,,,,,FALSE,"JU","Saignelégier","Saignelégier","Saignelégier","Saignelégier JU","Saignelégier (JU)","Saignelégier JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6758,,,,,,,,FALSE,"JU","Saint-Brais","Saint-Brais","Saint-Brais","Saint-Brais JU","Saint-Brais (JU)","Saint-Brais JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6759,,,,,,,,FALSE,"JU","Soubey","Soubey","Soubey","Soubey JU","Soubey (JU)","Soubey JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6771,,,,,,,,FALSE,"JU","Alle","Alle","Alle","Alle JU","Alle (JU)","Alle JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6773,,,,,,,,FALSE,"JU","Beurnevésin","Beurnevésin","Beurnevésin","Beurnevésin JU","Beurnevésin (JU)","Beurnevésin JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6774,,,,,,,,FALSE,"JU","Boncourt","Boncourt","Boncourt","Boncourt JU","Boncourt (JU)","Boncourt JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6775,,,,,,,,FALSE,"JU","Bonfol","Bonfol","Bonfol","Bonfol JU","Bonfol (JU)","Bonfol JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6778,,,,,,,,FALSE,"JU","Bure","Bure","Bure","Bure JU","Bure (JU)","Bure JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6781,,,,,,,,FALSE,"JU","Coeuve","Coeuve","Coeuve","Coeuve JU","Coeuve (JU)","Coeuve JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6782,,,,,,,,FALSE,"JU","Cornol","Cornol","Cornol","Cornol JU","Cornol (JU)","Cornol JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6783,,,,,,,,FALSE,"JU","Courchavon","Courchavon","Courchavon","Courchavon JU","Courchavon (JU)","Courchavon JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6784,,,,,,,,FALSE,"JU","Courgenay","Courgenay","Courgenay","Courgenay JU","Courgenay (JU)","Courgenay JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6785,,,,,,,,FALSE,"JU","Courtedoux","Courtedoux","Courtedoux","Courtedoux JU","Courtedoux (JU)","Courtedoux JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6787,,,,,,,,FALSE,"JU","Damphreux","Damphreux","Damphreux","Damphreux JU","Damphreux (JU)","Damphreux JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6789,,,,,,,,FALSE,"JU","Fahy","Fahy","Fahy","Fahy JU","Fahy (JU)","Fahy JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6790,,,,,,,,FALSE,"JU","Fontenais","Fontenais","Fontenais","Fontenais JU","Fontenais (JU)","Fontenais JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6792,,,,,,,,FALSE,"JU","Grandfontaine","Grandfontaine","Grandfontaine","Grandfontaine JU","Grandfontaine (JU)","Grandfontaine JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6793,,,,,,,,FALSE,"JU","Lugnez","Lugnez","Lugnez","Lugnez JU","Lugnez (JU)","Lugnez JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6800,,,,,,,,FALSE,"JU","Pruntrut","Porrentruy","Pruntrut","Pruntrut JU","Porrentruy (JU)","Pruntrut JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6806,,,,,,,,FALSE,"JU","Vendlincourt","Vendlincourt","Vendlincourt","Vendlincourt JU","Vendlincourt (JU)","Vendlincourt JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6807,,,,,,,,FALSE,"JU","Basse-Allaine","Basse-Allaine","Basse-Allaine","Basse-Allaine JU","Basse-Allaine (JU)","Basse-Allaine JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6808,,,,,,,,FALSE,"JU","Clos du Doubs","Clos du Doubs","Clos du Doubs","Clos du Doubs JU","Clos du Doubs (JU)","Clos du Doubs JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6809,,,,,,,,FALSE,"JU","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie JU","Haute-Ajoie (JU)","Haute-Ajoie JU","Jura","Jura","Giura",,FALSE,FALSE
-26,6810,,,,,,,,FALSE,"JU","La Baroche","La Baroche","La Baroche","La Baroche JU","La Baroche (JU)","La Baroche JU","Jura","Jura","Giura",,FALSE,FALSE
+26,6702,,,,,,,,FALSE,"JU","Boécourt","Boécourt","Boécourt","Boécourt JU","Boécourt (JU)","Boécourt JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6703,,,,,,,,FALSE,"JU","Bourrignon","Bourrignon","Bourrignon","Bourrignon JU","Bourrignon (JU)","Bourrignon JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6704,55.033557047,82,67,44.444444444,156,351,149,TRUE,"JU","Châtillon JU","Châtillon (JU)","Châtillon JU","Châtillon JU","Châtillon (JU)","Châtillon JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6706,50,56,56,33.731343284,113,335,112,TRUE,"JU","Courchapoix","Courchapoix","Courchapoix","Courchapoix JU","Courchapoix (JU)","Courchapoix JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6708,,,,,,,,FALSE,"JU","Courrendlin","Courrendlin","Courrendlin","Courrendlin JU","Courrendlin (JU)","Courrendlin JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6709,63.170731707,518,302,36.448997012,854,2343,820,TRUE,"JU","Courroux","Courroux","Courroux","Courroux JU","Courroux (JU)","Courroux JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6710,,,,,,,,FALSE,"JU","Courtételle","Courtételle","Courtételle","Courtételle JU","Courtételle (JU)","Courtételle JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6711,,,,,,,,FALSE,"JU","Delsberg","Delémont","Delsberg","Delsberg JU","Delémont (JU)","Delsberg JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6712,72.997032641,246,91,35.557872784,341,959,337,TRUE,"JU","Develier","Develier","Develier","Develier JU","Develier (JU)","Develier JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6713,25,9,27,38.144329897,37,97,36,TRUE,"JU","Ederswiler","Ederswiler","Ederswiler","Ederswiler JU","Ederswiler (JU)","Ederswiler JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6715,59.333333333,89,61,35.933806147,152,423,150,TRUE,"JU","Mervelier","Mervelier","Mervelier","Mervelier JU","Mervelier (JU)","Mervelier JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6716,50,21,21,53.086419753,43,81,42,TRUE,"JU","Mettembert","Mettembert","Mettembert","Mettembert JU","Mettembert (JU)","Mettembert JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6718,54.074074074,73,62,41.002949853,139,339,135,TRUE,"JU","Movelier","Movelier","Movelier","Movelier JU","Movelier (JU)","Movelier JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6719,56.603773585,60,46,37.908496732,116,306,106,TRUE,"JU","Pleigne","Pleigne","Pleigne","Pleigne JU","Pleigne (JU)","Pleigne JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6721,63.942307692,133,75,40.458015267,212,524,208,TRUE,"JU","Rossemaison","Rossemaison","Rossemaison","Rossemaison JU","Rossemaison (JU)","Rossemaison JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6722,50.632911392,40,39,38.028169014,81,213,79,TRUE,"JU","Saulcy","Saulcy","Saulcy","Saulcy JU","Saulcy (JU)","Saulcy JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6724,59.433962264,63,43,34.579439252,111,321,106,TRUE,"JU","Soyhières","Soyhières","Soyhières","Soyhières JU","Soyhières (JU)","Soyhières JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6729,,,,,,,,FALSE,"JU","Haute-Sorne","Haute-Sorne","Haute-Sorne","Haute-Sorne JU","Haute-Sorne (JU)","Haute-Sorne JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6730,64.910179641,542,293,33.920704846,847,2497,835,TRUE,"JU","Val Terbi","Val Terbi","Val Terbi","Val Terbi JU","Val Terbi (JU)","Val Terbi JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6741,62.857142857,66,39,37.024221453,107,289,105,TRUE,"JU","Le Bémont JU","Le Bémont (JU)","Le Bémont JU","Le Bémont JU","Le Bémont (JU)","Le Bémont JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6742,,,,,,,,FALSE,"JU","Les Bois","Les Bois","Les Bois","Les Bois JU","Les Bois (JU)","Les Bois JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6743,,,,,,,,FALSE,"JU","Les Breuleux","Les Breuleux","Les Breuleux","Les Breuleux JU","Les Breuleux (JU)","Les Breuleux JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6744,50,21,21,50,43,86,42,TRUE,"JU","La Chaux-des-Breuleux","La Chaux-des-Breuleux","La Chaux-des-Breuleux","La Chaux-des-Breuleux JU","La Chaux-des-Breuleux (JU)","La Chaux-des-Breuleux JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6745,,,,,,,,FALSE,"JU","Les Enfers","Les Enfers","Les Enfers","Les Enfers JU","Les Enfers (JU)","Les Enfers JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6748,68.613138686,94,43,31.954022989,139,435,137,TRUE,"JU","Les Genevez JU","Les Genevez (JU)","Les Genevez JU","Les Genevez JU","Les Genevez (JU)","Les Genevez JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6750,60.913705584,120,77,34.904013962,200,573,197,TRUE,"JU","Lajoux JU","Lajoux (JU)","Lajoux JU","Lajoux JU","Lajoux (JU)","Lajoux JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6751,58.888888889,106,74,40.3930131,185,458,180,TRUE,"JU","Montfaucon","Montfaucon","Montfaucon","Montfaucon JU","Montfaucon (JU)","Montfaucon JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6753,65.217391304,120,64,40.212765957,189,470,184,TRUE,"JU","Muriaux","Muriaux","Muriaux","Muriaux JU","Muriaux (JU)","Muriaux JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6754,,,,,,,,FALSE,"JU","Le Noirmont","Le Noirmont","Le Noirmont","Le Noirmont JU","Le Noirmont (JU)","Le Noirmont JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6757,76.710334789,527,160,33.065658951,700,2117,687,TRUE,"JU","Saignelégier","Saignelégier","Saignelégier","Saignelégier JU","Saignelégier (JU)","Saignelégier JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6758,56.52173913,39,30,36.458333333,70,192,69,TRUE,"JU","Saint-Brais","Saint-Brais","Saint-Brais","Saint-Brais JU","Saint-Brais (JU)","Saint-Brais JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6759,50,19,19,30.46875,39,128,38,TRUE,"JU","Soubey","Soubey","Soubey","Soubey JU","Soubey (JU)","Soubey JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6771,,,,,,,,FALSE,"JU","Alle","Alle","Alle","Alle JU","Alle (JU)","Alle JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6773,53.06122449,26,23,44.642857143,50,112,49,TRUE,"JU","Beurnevésin","Beurnevésin","Beurnevésin","Beurnevésin JU","Beurnevésin (JU)","Beurnevésin JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6774,62.390670554,214,129,35.247524752,356,1010,343,TRUE,"JU","Boncourt","Boncourt","Boncourt","Boncourt JU","Boncourt (JU)","Boncourt JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6775,45.161290323,84,102,31.780366057,191,601,186,TRUE,"JU","Bonfol","Bonfol","Bonfol","Bonfol JU","Bonfol (JU)","Bonfol JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6778,,,,,,,,FALSE,"JU","Bure","Bure","Bure","Bure JU","Bure (JU)","Bure JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6781,59.420289855,123,84,36.842105263,210,570,207,TRUE,"JU","Coeuve","Coeuve","Coeuve","Coeuve JU","Coeuve (JU)","Coeuve JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6782,61.574074074,133,83,28.625472888,227,793,216,TRUE,"JU","Cornol","Cornol","Cornol","Cornol JU","Cornol (JU)","Cornol JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6783,50.561797753,45,44,40.434782609,93,230,89,TRUE,"JU","Courchavon","Courchavon","Courchavon","Courchavon JU","Courchavon (JU)","Courchavon JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6784,,,,,,,,FALSE,"JU","Courgenay","Courgenay","Courgenay","Courgenay JU","Courgenay (JU)","Courgenay JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6785,60.663507109,128,83,36.643835616,214,584,211,TRUE,"JU","Courtedoux","Courtedoux","Courtedoux","Courtedoux JU","Courtedoux (JU)","Courtedoux JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6787,63.541666667,61,35,64.052287582,98,153,96,TRUE,"JU","Damphreux","Damphreux","Damphreux","Damphreux JU","Damphreux (JU)","Damphreux JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6789,51.401869159,55,52,37.931034483,110,290,107,TRUE,"JU","Fahy","Fahy","Fahy","Fahy JU","Fahy (JU)","Fahy JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6790,65.800865801,304,158,36.098310292,470,1302,462,TRUE,"JU","Fontenais","Fontenais","Fontenais","Fontenais JU","Fontenais (JU)","Fontenais JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6792,,,,,,,,FALSE,"JU","Grandfontaine","Grandfontaine","Grandfontaine","Grandfontaine JU","Grandfontaine (JU)","Grandfontaine JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6793,63.75,51,29,59.027777778,85,144,80,TRUE,"JU","Lugnez","Lugnez","Lugnez","Lugnez JU","Lugnez (JU)","Lugnez JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6800,,,,,,,,FALSE,"JU","Pruntrut","Porrentruy","Pruntrut","Pruntrut JU","Porrentruy (JU)","Pruntrut JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6806,,,,,,,,FALSE,"JU","Vendlincourt","Vendlincourt","Vendlincourt","Vendlincourt JU","Vendlincourt (JU)","Vendlincourt JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6807,62.540716612,192,115,32.949790795,315,956,307,TRUE,"JU","Basse-Allaine","Basse-Allaine","Basse-Allaine","Basse-Allaine JU","Basse-Allaine (JU)","Basse-Allaine JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6808,,,,,,,,FALSE,"JU","Clos du Doubs","Clos du Doubs","Clos du Doubs","Clos du Doubs JU","Clos du Doubs (JU)","Clos du Doubs JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6809,,,,,,,,FALSE,"JU","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie JU","Haute-Ajoie (JU)","Haute-Ajoie JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
+26,6810,57.703927492,191,140,35.646687697,339,951,331,TRUE,"JU","La Baroche","La Baroche","La Baroche","La Baroche JU","La Baroche (JU)","La Baroche JU","Jura","Jura","Giura",62.530250067,FALSE,FALSE
