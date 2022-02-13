@@ -1,24 +1,12 @@
 
 
-2022-02-12 09:34:05 Tierversuche
+2022-02-13 11:09:20 Tierversuche
 
 
-2022-02-12 09:34:19 Tabakwerbung
+2022-02-13 11:09:35 Tabakwerbung
 
 
-2022-02-12 09:34:35 Stempelabgaben
+2022-02-13 11:09:49 Stempelabgaben
 
 
-2022-02-12 09:34:49 Medien
-
-
-2022-02-13 10:17:30 Tierversuche
-
-
-2022-02-13 10:17:45 Tabakwerbung
-
-
-2022-02-13 10:17:59 Stempelabgaben
-
-
-2022-02-13 10:18:15 Medien
+2022-02-13 11:10:05 Medien
