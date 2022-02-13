@@ -179,3 +179,15 @@ Nidwalden,
 
 2022-02-13 12:32:21 Medien
 Nidwalden, 
+
+2022-02-13 12:34:00 Tierversuche
+Nidwalden, 
+
+2022-02-13 12:34:42 Tabakwerbung
+Nidwalden, 
+
+2022-02-13 12:35:22 Stempelabgaben
+Nidwalden, 
+
+2022-02-13 12:35:56 Medien
+Nidwalden, 
